@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-10T16:24:53+08:00",
-  "count": 10,
+  "exported_at": "2026-10-10T08:39:35.733Z",
+  "count": 11,
   "listings": [
     {
       "url": "https://shop.tiktok.com/us/pdp/braided-nylon-magnetic-smart-watch-band-durable-stylish/1732311674818696089",
@@ -166,6 +166,24 @@
       "sold": "0 feedback",
       "snapshot_at": "2026-10-09T10:30:00+08:00",
       "source_issue": "2026-10-09",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256813009792103.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256813009792103.html",
+      "page_id": "3256813009792103",
+      "platform": "AliExpress",
+      "name": "Elastic Nylon Strap for Google Fitbit Air Band Sport Replacement Wristband Brace",
+      "price": "USD 1.09",
+      "sold": "售出 3",
+      "sold_num": 3,
+      "snapshot_at": "2026-10-10T08:39:34.680Z",
+      "source_issue": "2026-10-10",
       "trend": {
         "label": "首记",
         "up": false,
