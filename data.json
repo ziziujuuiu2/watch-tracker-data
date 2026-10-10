@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-10T16:16:32+08:00",
+  "exported_at": "2026-10-10T16:24:53+08:00",
   "count": 10,
   "listings": [
     {
@@ -57,7 +57,7 @@
       "url": "https://shopee.tw/-愛心造型米蘭不鏽鋼Apple-Watch錶帶S12-S11-SE3-40-44-42-46mm-i.317974408.43531692046",
       "match_host": "shopee.tw",
       "match_key": "shopee.tw/-愛心造型米蘭不鏽鋼apple-watch錶帶s12-s11-se3-40-44-42-46mm-i.317974408.43531692046",
-      "page_id": "43531692046",
+      "page_id": "317974408",
       "platform": "Shopee",
       "name": "愛心造型米蘭不鏽鋼錶帶",
       "price": "NT$299",
@@ -74,7 +74,7 @@
       "url": "https://shopee.tw/《隔日到貨》適用-APPLE-WATCH-金屬錶帶-鈦合金錶帶-S11-S10-49-46mm-男士錶帶-ultra-i.965139274.24911372263",
       "match_host": "shopee.tw",
       "match_key": "shopee.tw/《隔日到貨》適用-apple-watch-金屬錶帶-鈦合金錶帶-s11-s10-49-46mm-男士錶帶-ultra-i.965139274.24911372263",
-      "page_id": "24911372263",
+      "page_id": "965139274",
       "platform": "Shopee",
       "name": "鈦金屬錶帶 Ultra 4/S12",
       "price": "NT$315",
@@ -91,7 +91,7 @@
       "url": "https://shopee.tw/愛心鋯石-金屬錶帶-適用-Apple-Watch-錶帶-S12-11-10-9-8-7-SE-Ultra-蘋果手錶錶帶-i.11999667.27927316478",
       "match_host": "shopee.tw",
       "match_key": "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
-      "page_id": "27927316478",
+      "page_id": "11999667",
       "platform": "Shopee",
       "name": "愛心鋯石金屬錶帶",
       "price": "NT$469–519",
@@ -106,9 +106,9 @@
     },
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
-      "match_host": "www.aliexpress.us",
+      "match_host": "aliexpress.us",
       "match_key": "aliexpress.us/item/3256813008552353.html",
-      "page_id": null,
+      "page_id": "3256813008552353",
       "platform": "AliExpress",
       "name": "Nylon Braided Strap for Google Fitbit Air Bands Fitness Replacement Band Magneti",
       "price": "待补",
@@ -123,7 +123,7 @@
     },
     {
       "url": "https://www.ebay.com/itm/326754361365",
-      "match_host": "www.ebay.com",
+      "match_host": "ebay.com",
       "match_key": "ebay.com/itm/326754361365",
       "page_id": "326754361365",
       "platform": "eBay",
@@ -140,7 +140,7 @@
     },
     {
       "url": "https://www.ebay.com/itm/389109381609",
-      "match_host": "www.ebay.com",
+      "match_host": "ebay.com",
       "match_key": "ebay.com/itm/389109381609",
       "page_id": "389109381609",
       "platform": "eBay",
@@ -157,7 +157,7 @@
     },
     {
       "url": "https://www.ebay.com/itm/398413048309",
-      "match_host": "www.ebay.com",
+      "match_host": "ebay.com",
       "match_key": "ebay.com/itm/398413048309",
       "page_id": "398413048309",
       "platform": "eBay",
