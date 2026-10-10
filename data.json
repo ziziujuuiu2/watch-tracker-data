@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-10T08:57:28.430Z",
-  "count": 12,
+  "exported_at": "2026-10-10T08:58:33.333Z",
+  "count": 13,
   "listings": [
     {
       "url": "https://shop.tiktok.com/us/pdp/braided-nylon-magnetic-smart-watch-band-durable-stylish/1732311674818696089",
@@ -212,6 +212,25 @@
       "sold": "96 sold",
       "sold_num": 96,
       "snapshot_at": "2026-10-10T08:57:27.657Z",
+      "source_issue": "2026-10-10",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256812755173002.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256812755173002.html",
+      "page_id": "3256812755173002",
+      "platform": "AliExpress",
+      "name": "JUELONG Sailcloth Rubber Strap 18mm 19mm 20mm 21mm 22mm Quick Release Waterproof",
+      "category": "硅胶运动",
+      "price": "USD 5.53",
+      "sold": "96 sold",
+      "sold_num": 96,
+      "snapshot_at": "2026-10-10T08:58:32.540Z",
       "source_issue": "2026-10-10",
       "trend": {
         "label": "首记",
