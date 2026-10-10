@@ -1,6 +1,6 @@
 {
- "exported_at": "2026-10-10T16:46:17+08:00",
- "count": 12,
+ "exported_at": "2026-10-10T16:52:17+08:00",
+ "count": 11,
  "listings": [
   {
    "url": "https://shop.tiktok.com/us/pdp/braided-nylon-magnetic-smart-watch-band-durable-stylish/1732311674818696089",
@@ -194,25 +194,6 @@
    "sold": "0 feedback",
    "snapshot_at": "2026-10-09T10:30:00+08:00",
    "source_issue": "2026-10-09",
-   "trend": {
-    "label": "首记",
-    "up": false,
-    "first": true
-   }
-  },
-  {
-   "url": "https://www.amazon.com/dp/B0CKN7TLTH",
-   "match_host": "amazon.com",
-   "match_key": "amazon.com/dp/b0ckn7tlth",
-   "page_id": null,
-   "platform": "Amazon",
-   "name": "【测试】Meliya Silicone Sport Band for Fitbit Charge 6（Muse 自测，稍后删除）",
-   "category": "硅胶运动",
-   "price": "USD 9.99",
-   "sold": "200+ bought",
-   "sold_num": 200,
-   "snapshot_at": "2026-10-10T16:46:17+08:00",
-   "source_issue": "2026-10-10",
    "trend": {
     "label": "首记",
     "up": false,
