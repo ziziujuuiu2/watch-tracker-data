@@ -1,7 +1,43 @@
 {
-  "exported_at": "2026-10-10T08:58:33.333Z",
-  "count": 13,
+  "exported_at": "2026-10-12T11:03:28+08:00",
+  "count": 17,
   "listings": [
+    {
+      "url": "https://inbusiness.aliexpress.com/easysale/en/Apple-Watch-Series-2",
+      "match_host": "inbusiness.aliexpress.com",
+      "match_key": "inbusiness.aliexpress.com/easysale/en/apple-watch-series-2",
+      "page_id": null,
+      "platform": "AliExpress",
+      "name": "Business批发页：DLC钛磁吸带+Kebitt Burgundy Alpine带（Ultra 4/Series 12）",
+      "category": "金属表带",
+      "price": "DLC款2.82/Kebitt款0.25",
+      "sold": "DLC款未核实/Kebitt款1 sold",
+      "snapshot_at": "2026-10-12T11:03:17+08:00",
+      "source_issue": "2026-10-12",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://shop.tiktok.com/us/pdp/1732409761109938425",
+      "match_host": "shop.tiktok.com",
+      "match_key": "shop.tiktok.com/us/pdp/1732409761109938425",
+      "page_id": "1732409761109938425",
+      "platform": "TikTok Shop",
+      "name": "Colorful Striped Watch Straps（条纹织物表带，SohoChic）",
+      "category": "其他",
+      "price": "未核实",
+      "sold": "未核实（商品页地域拦截）",
+      "snapshot_at": "2026-10-12T11:03:17+08:00",
+      "source_issue": "2026-10-12",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
     {
       "url": "https://shop.tiktok.com/us/pdp/braided-nylon-magnetic-smart-watch-band-durable-stylish/1732311674818696089",
       "match_host": "shop.tiktok.com",
@@ -75,6 +111,24 @@
       }
     },
     {
+      "url": "https://shopee.tw/《台灣出貨》適用-APPLE-WATCH-格紋拼色錶帶-磁吸錶帶-格紋錶帶-S11-S10-SE-46mm-女士錶帶-i.965139274.24956664527",
+      "match_host": "shopee.tw",
+      "match_key": "shopee.tw/《台灣出貨》適用-apple-watch-格紋拼色錶帶-磁吸錶帶-格紋錶帶-s11-s10-se-46mm-女士錶帶-i.965139274.24956664527",
+      "page_id": "965139274",
+      "platform": "Shopee",
+      "name": "格纹拼色磁吸表带 S12/S11/SE3（LUCKY錶帶）",
+      "category": "其他",
+      "price": "NT58–198",
+      "sold": "未核实（页面未显示）",
+      "snapshot_at": "2026-10-12T11:03:17+08:00",
+      "source_issue": "2026-10-12",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
+    {
       "url": "https://shopee.tw/《隔日到貨》適用-APPLE-WATCH-金屬錶帶-鈦合金錶帶-S11-S10-49-46mm-男士錶帶-ultra-i.965139274.24911372263",
       "match_host": "shopee.tw",
       "match_key": "shopee.tw/《隔日到貨》適用-apple-watch-金屬錶帶-鈦合金錶帶-s11-s10-49-46mm-男士錶帶-ultra-i.965139274.24911372263",
@@ -93,6 +147,24 @@
       }
     },
     {
+      "url": "https://shopee.tw/【推薦新品】-超獨特設計手鏈式金屬錶帶-適用Apple-Watch-S11-S10-42-46-40-44mm-SE3-i.317974408.25997524189",
+      "match_host": "shopee.tw",
+      "match_key": "shopee.tw/【推薦新品】-超獨特設計手鏈式金屬錶帶-適用apple-watch-s11-s10-42-46-40-44mm-se3-i.317974408.25997524189",
+      "page_id": "317974408",
+      "platform": "Shopee",
+      "name": "【推薦新品】超獨特設計手鏈式金屬錶帶 S12/S11/SE3（Jolie Accessories）",
+      "category": "金属表带",
+      "price": "NT99",
+      "sold": "未核实（页面未显示）",
+      "snapshot_at": "2026-10-12T11:03:17+08:00",
+      "source_issue": "2026-10-12",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
+    {
       "url": "https://shopee.tw/愛心鋯石-金屬錶帶-適用-Apple-Watch-錶帶-S12-11-10-9-8-7-SE-Ultra-蘋果手錶錶帶-i.11999667.27927316478",
       "match_host": "shopee.tw",
       "match_key": "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
@@ -104,6 +176,42 @@
       "sold": "未核实",
       "snapshot_at": "2026-10-09T10:30:00+08:00",
       "source_issue": "2026-10-09",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256812108634083.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256812108634083.html",
+      "page_id": "3256812108634083",
+      "platform": "AliExpress",
+      "name": "Round Curve End Watch Belt 20mm 21mm 22mm Waterproof FKM Rubber Watch Strap Band",
+      "category": "硅胶运动",
+      "price": "USD 19.87",
+      "sold": "未核实",
+      "snapshot_at": "2026-10-10T16:57:27+08:00",
+      "source_issue": "2026-10-10",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256812755173002.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256812755173002.html",
+      "page_id": "3256812755173002",
+      "platform": "AliExpress",
+      "name": "JUELONG Sailcloth Rubber Strap 18mm 19mm 20mm 21mm 22mm Quick Release Waterproof",
+      "category": "硅胶运动",
+      "price": "USD 5.53",
+      "sold": "已售出 20 件",
+      "snapshot_at": "2026-10-10T16:58:32+08:00",
+      "source_issue": "2026-10-10",
       "trend": {
         "label": "首记",
         "up": false,
@@ -172,14 +280,17 @@
       "platform": "eBay",
       "name": "Magnetic Double-Section 双节磁吸不锈钢表带",
       "category": "金属表带",
-      "price": "未核实",
-      "sold": "未核实",
-      "snapshot_at": "2026-10-09T10:30:00+08:00",
-      "source_issue": "2026-10-09",
+      "price": "未核实（页面未显示）",
+      "sold": "未核实（页面未显示）",
+      "snapshot_at": "2026-10-12T11:03:22+08:00",
+      "source_issue": "2026-10-12",
       "trend": {
-        "label": "首记",
+        "label": "→ 数据不足",
         "up": false,
-        "first": true
+        "first": false,
+        "from": "2026-10-09",
+        "to": "2026-10-12",
+        "price_changed": true
       }
     },
     {
@@ -190,52 +301,17 @@
       "platform": "eBay",
       "name": "Capybara 磁吸编织表带（卡皮巴拉IP）",
       "category": "尼龙编织",
-      "price": "$12.55（+$3.99运费）",
-      "sold": "0 feedback",
-      "snapshot_at": "2026-10-09T10:30:00+08:00",
-      "source_issue": "2026-10-09",
+      "price": "$12.55",
+      "sold": "seller feedback 仍0；库存显示Last one",
+      "snapshot_at": "2026-10-12T11:03:22+08:00",
+      "source_issue": "2026-10-12",
       "trend": {
-        "label": "首记",
+        "label": "→ 数据不足",
         "up": false,
-        "first": true
-      }
-    },
-    {
-      "url": "https://www.aliexpress.us/item/3256812108634083.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256812108634083.html",
-      "page_id": "3256812108634083",
-      "platform": "AliExpress",
-      "name": "Round Curve End Watch Belt 20mm 21mm 22mm Waterproof FKM Rubber Watch Strap Band",
-      "category": "硅胶运动",
-      "price": "USD 19.87",
-      "sold": "96 sold",
-      "sold_num": 96,
-      "snapshot_at": "2026-10-10T08:57:27.657Z",
-      "source_issue": "2026-10-10",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
-      "url": "https://www.aliexpress.us/item/3256812755173002.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256812755173002.html",
-      "page_id": "3256812755173002",
-      "platform": "AliExpress",
-      "name": "JUELONG Sailcloth Rubber Strap 18mm 19mm 20mm 21mm 22mm Quick Release Waterproof",
-      "category": "硅胶运动",
-      "price": "USD 5.53",
-      "sold": "96 sold",
-      "sold_num": 96,
-      "snapshot_at": "2026-10-10T08:58:32.540Z",
-      "source_issue": "2026-10-10",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
+        "first": false,
+        "from": "2026-10-09",
+        "to": "2026-10-12",
+        "price_changed": true
       }
     }
   ]
