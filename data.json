@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-12T11:03:28+08:00",
+  "exported_at": "2026-10-12T11:32:44+08:00",
   "count": 17,
   "listings": [
     {
@@ -260,16 +260,19 @@
       "match_key": "ebay.com/itm/326754361365",
       "page_id": "326754361365",
       "platform": "eBay",
-      "name": "Luxury 复古真皮表带（棕色全覆盖）",
+      "name": "Luxury 复古真皮表带（棕色LV印花全覆盖）",
       "category": "真皮表带",
-      "price": "未核实",
-      "sold": "未核实",
-      "snapshot_at": "2026-10-09T10:30:00+08:00",
-      "source_issue": "2026-10-09",
+      "price": "$34.00",
+      "sold": "259 sold（4 SOLD TODAY）",
+      "snapshot_at": "2026-10-12T11:32:23+08:00",
+      "source_issue": "2026-10-12",
       "trend": {
-        "label": "首记",
+        "label": "→ 数据不足",
         "up": false,
-        "first": true
+        "first": false,
+        "from": "2026-10-09",
+        "to": "2026-10-12",
+        "price_changed": true
       }
     },
     {
