@@ -1,0 +1,70 @@
+{
+  "_v": 1,
+  "price": {
+    "amazon.com": [
+      "#corePrice_feature_div .a-offscreen",
+      "#priceblock_ourprice",
+      "#priceblock_dealprice"
+    ],
+    "ebay.com": [
+      "#prcIsum",
+      "#mm-saleDscPrc"
+    ],
+    "aliexpress.com": [
+      "[class*=\"price-default--current\"]",
+      "[class*=\"snow-price__main\"]"
+    ],
+    "aliexpress.us": [
+      "[class*=\"price-default--current\"]",
+      "[class*=\"snow-price__main\"]"
+    ],
+    "1688.com": [
+      ".price-now",
+      "#mod-detail-price .value"
+    ],
+    "ozon.ru": [
+      "[data-widget=\"webPrice\"]"
+    ]
+  },
+  "sold": {
+    "ebay.com": [
+      ".vi-qtyS-hot",
+      "#qtySubTxt"
+    ],
+    "aliexpress.com": [
+      "[class*=\"sold--text\"]",
+      "[class*=\"sold--info\"]"
+    ],
+    "aliexpress.us": [
+      "[class*=\"sold--text\"]",
+      "[class*=\"sold--info\"]"
+    ],
+    "1688.com": [
+      ".deal-cnt",
+      ".mod-detail-dealcnt"
+    ],
+    "shopee.tw": [
+      "[class*=\"sold\"]"
+    ],
+    "temu.com": [
+      "[class*=\"sold\"]"
+    ]
+  },
+  "seller": {
+    "ebay.com": [
+      ".mbg-nw"
+    ],
+    "amazon.com": [
+      "#sellerProfileTriggerId",
+      "#bylineInfo .a-link-normal"
+    ],
+    "aliexpress.com": [
+      "[class*=\"store-name\" i]",
+      "[class*=\"shop-name\" i]"
+    ],
+    "aliexpress.us": [
+      "[class*=\"store-name\" i]",
+      "[class*=\"shop-name\" i]"
+    ]
+  }
+}
