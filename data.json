@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T06:34:48.003Z",
-  "count": 19,
+  "exported_at": "2026-10-13T06:46:52.131Z",
+  "count": 20,
   "listings": [
     {
       "url": "https://inbusiness.aliexpress.com/easysale/en/Apple-Watch-Series-2",
@@ -348,6 +348,25 @@
       "sold": "",
       "sold_num": null,
       "snapshot_at": "2026-10-13T06:34:47.999Z",
+      "source_issue": "2026-10-13",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://detail.1688.com/offer/752205332379.html",
+      "match_host": "detail.1688.com",
+      "match_key": "detail.1688.com/offer/752205332379.html",
+      "page_id": "752205332379",
+      "platform": "detail.1688.com",
+      "name": "适用iwatch11金刚方扣横纹S12硅胶表带apple watch8910苹果手表带 - 阿里巴巴",
+      "category": "硅胶运动",
+      "price": "¥4.5",
+      "sold": "",
+      "sold_num": null,
+      "snapshot_at": "2026-10-13T06:46:51.636Z",
       "source_issue": "2026-10-13",
       "trend": {
         "label": "首记",
