@@ -1,25 +1,7 @@
 {
-  "exported_at": "2026-10-13T07:30:16.039Z",
-  "count": 3,
+  "exported_at": "2026-10-13T07:30:21.050Z",
+  "count": 2,
   "listings": [
-    {
-      "url": "https://shopee.tw/愛心鋯石-金屬錶帶-適用-Apple-Watch-錶帶-S12-11-10-9-8-7-SE-Ultra-蘋果手錶錶帶-i.11999667.27927316478",
-      "match_host": "shopee.tw",
-      "match_key": "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
-      "page_id": "11999667",
-      "platform": "Shopee",
-      "name": "愛心鋯石金屬錶帶",
-      "category": "金属表带",
-      "price": "NT$469–519",
-      "sold": "未核实",
-      "snapshot_at": "2026-10-09T10:30:00+08:00",
-      "source_issue": "2026-10-09",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
     {
       "url": "https://detail.1688.com/offer/1088992959968.html",
       "match_host": "detail.1688.com",
@@ -77,6 +59,7 @@
     "shopee.tw/《台灣出貨》適用-apple-watch-格紋拼色錶帶-磁吸錶帶-格紋錶帶-s11-s10-se-46mm-女士錶帶-i.965139274.24956664527",
     "shopee.tw/【推薦新品】-超獨特設計手鏈式金屬錶帶-適用apple-watch-s11-s10-42-46-40-44mm-se3-i.317974408.25997524189",
     "shopee.tw/-愛心造型米蘭不鏽鋼apple-watch錶帶s12-s11-se3-40-44-42-46mm-i.317974408.43531692046",
-    "shopee.tw/《隔日到貨》適用-apple-watch-金屬錶帶-鈦合金錶帶-s11-s10-49-46mm-男士錶帶-ultra-i.965139274.24911372263"
+    "shopee.tw/《隔日到貨》適用-apple-watch-金屬錶帶-鈦合金錶帶-s11-s10-49-46mm-男士錶帶-ultra-i.965139274.24911372263",
+    "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478"
   ]
 }
