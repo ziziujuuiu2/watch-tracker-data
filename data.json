@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T08:44:20.989Z",
-  "count": 3,
+  "exported_at": "2026-10-13T08:44:33.617Z",
+  "count": 2,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
@@ -55,31 +55,6 @@
         "up": false,
         "first": true
       }
-    },
-    {
-      "url": "https://www.1688.com/",
-      "match_host": "1688.com",
-      "match_key": "1688.com",
-      "page_id": null,
-      "platform": "1688",
-      "name": "阿里1688首页",
-      "category": "其他",
-      "price": "¥0.04",
-      "sold": "",
-      "sold_num": null,
-      "rating": "4",
-      "reviews": "",
-      "reviews_num": null,
-      "seller": "深圳市美山科技有限公司",
-      "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-13T08:44:19.624Z",
-      "source_issue": "2026-10-13",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
     }
   ],
   "_src": "GitHub",
@@ -103,6 +78,7 @@
     "shopee.tw/《隔日到貨》適用-apple-watch-金屬錶帶-鈦合金錶帶-s11-s10-49-46mm-男士錶帶-ultra-i.965139274.24911372263",
     "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
     "detail.1688.com/offer/752205332379.html",
-    "detail.1688.com/offer/1088992959968.html"
+    "detail.1688.com/offer/1088992959968.html",
+    "1688.com"
   ]
 }
