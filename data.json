@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T07:29:03.722Z",
-  "count": 15,
+  "exported_at": "2026-10-13T07:29:09.841Z",
+  "count": 14,
   "listings": [
     {
       "url": "https://inbusiness.aliexpress.com/easysale/en/Apple-Watch-Series-2",
@@ -14,24 +14,6 @@
       "sold": "DLC款未核实/Kebitt款1 sold",
       "snapshot_at": "2026-10-12T11:03:17+08:00",
       "source_issue": "2026-10-12",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
-      "url": "https://shop.tiktok.com/us/pdp/leather-apple-watch-band-genuine-leather-fits-all-series-unique-designs/1732177977145529292",
-      "match_host": "shop.tiktok.com",
-      "match_key": "shop.tiktok.com/us/pdp/leather-apple-watch-band-genuine-leather-fits-all-series-unique-designs/1732177977145529292",
-      "page_id": "1732177977145529292",
-      "platform": "TikTok Shop",
-      "name": "Leather Apple Watch Band（真皮全系兼容）",
-      "category": "真皮表带",
-      "price": "$55.99",
-      "sold": "0 sold",
-      "snapshot_at": "2026-10-09T10:30:00+08:00",
-      "source_issue": "2026-10-09",
       "trend": {
         "label": "首记",
         "up": false,
@@ -288,6 +270,7 @@
     "ebay.com/itm/398413048309",
     "shop.tiktok.com/us/pdp/braided-nylon-magnetic-smart-watch-band-durable-stylish/1732311674818696089",
     "aliexpress.us/item/3256813008552353.html",
-    "shop.tiktok.com/us/pdp/1732409761109938425"
+    "shop.tiktok.com/us/pdp/1732409761109938425",
+    "shop.tiktok.com/us/pdp/leather-apple-watch-band-genuine-leather-fits-all-series-unique-designs/1732177977145529292"
   ]
 }
