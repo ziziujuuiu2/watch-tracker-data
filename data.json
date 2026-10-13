@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T07:32:28.567Z",
-  "count": 1,
+  "exported_at": "2026-10-13T08:27:52.050Z",
+  "count": 2,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
@@ -22,6 +22,33 @@
         "Google Fitbit Air"
       ],
       "snapshot_at": "2026-10-13T07:32:27.789Z",
+      "source_issue": "2026-10-13",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256812618840113.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256812618840113.html",
+      "page_id": "3256812618840113",
+      "platform": "AliExpress",
+      "name": "PC Case+Glass for Samsung Galaxy Watch Ultra 2 Tempered Glass Screen Protector H",
+      "category": "其他",
+      "price": "USD 1.09",
+      "sold": "(1405 Orders)",
+      "sold_num": 1405,
+      "rating": "4.4",
+      "reviews": "176",
+      "reviews_num": 176,
+      "seller": "",
+      "listed_at": "",
+      "colors": [
+        "Galaxy Watch Ultra 2"
+      ],
+      "snapshot_at": "2026-10-13T08:27:51.359Z",
       "source_issue": "2026-10-13",
       "trend": {
         "label": "首记",
