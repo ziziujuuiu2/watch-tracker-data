@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T07:30:00.780Z",
-  "count": 6,
+  "exported_at": "2026-10-13T07:30:05.717Z",
+  "count": 5,
   "listings": [
     {
       "url": "https://shopee.tw/-愛心造型米蘭不鏽鋼Apple-Watch錶帶S12-S11-SE3-40-44-42-46mm-i.317974408.43531692046",
@@ -32,24 +32,6 @@
       "sold": "未核实",
       "snapshot_at": "2026-10-09T10:30:00+08:00",
       "source_issue": "2026-10-09",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
-      "url": "https://shopee.tw/【推薦新品】-超獨特設計手鏈式金屬錶帶-適用Apple-Watch-S11-S10-42-46-40-44mm-SE3-i.317974408.25997524189",
-      "match_host": "shopee.tw",
-      "match_key": "shopee.tw/【推薦新品】-超獨特設計手鏈式金屬錶帶-適用apple-watch-s11-s10-42-46-40-44mm-se3-i.317974408.25997524189",
-      "page_id": "317974408",
-      "platform": "Shopee",
-      "name": "【推薦新品】超獨特設計手鏈式金屬錶帶 S12/S11/SE3（Jolie Accessories）",
-      "category": "金属表带",
-      "price": "NT99",
-      "sold": "未核实（页面未显示）",
-      "snapshot_at": "2026-10-12T11:03:17+08:00",
-      "source_issue": "2026-10-12",
       "trend": {
         "label": "首记",
         "up": false,
@@ -128,6 +110,7 @@
     "aliexpress.us/item/3256812108634083.html",
     "ebay.com/itm/326754361365",
     "ebay.com/itm/389109381609",
-    "shopee.tw/《台灣出貨》適用-apple-watch-格紋拼色錶帶-磁吸錶帶-格紋錶帶-s11-s10-se-46mm-女士錶帶-i.965139274.24956664527"
+    "shopee.tw/《台灣出貨》適用-apple-watch-格紋拼色錶帶-磁吸錶帶-格紋錶帶-s11-s10-se-46mm-女士錶帶-i.965139274.24956664527",
+    "shopee.tw/【推薦新品】-超獨特設計手鏈式金屬錶帶-適用apple-watch-s11-s10-42-46-40-44mm-se3-i.317974408.25997524189"
   ]
 }
