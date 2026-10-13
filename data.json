@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T07:28:44.331Z",
-  "count": 16,
+  "exported_at": "2026-10-13T07:28:47.456Z",
+  "count": 15,
   "listings": [
     {
       "url": "https://inbusiness.aliexpress.com/easysale/en/Apple-Watch-Series-2",
@@ -32,24 +32,6 @@
       "sold": "未核实（商品页地域拦截）",
       "snapshot_at": "2026-10-12T11:03:17+08:00",
       "source_issue": "2026-10-12",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
-      "url": "https://shop.tiktok.com/us/pdp/braided-nylon-magnetic-smart-watch-band-durable-stylish/1732311674818696089",
-      "match_host": "shop.tiktok.com",
-      "match_key": "shop.tiktok.com/us/pdp/braided-nylon-magnetic-smart-watch-band-durable-stylish/1732311674818696089",
-      "page_id": "1732311674818696089",
-      "platform": "TikTok Shop",
-      "name": "Braided Magnetic 编织磁吸尼龙表带",
-      "category": "尼龙编织",
-      "price": "未核实",
-      "sold": "Temu同形态7.6K+已售",
-      "snapshot_at": "2026-10-09T10:30:00+08:00",
-      "source_issue": "2026-10-09",
       "trend": {
         "label": "首记",
         "up": false,
@@ -302,6 +284,7 @@
     "aliexpress.us/item/3256813009792103.html",
     "ebay.com/itm/398413048309",
     "aliexpress.us/item/3256813008552353.html",
-    "ebay.com/itm/389109381609"
+    "ebay.com/itm/389109381609",
+    "shop.tiktok.com/us/pdp/braided-nylon-magnetic-smart-watch-band-durable-stylish/1732311674818696089"
   ]
 }
