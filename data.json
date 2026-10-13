@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T07:28:34.125Z",
-  "count": 18,
+  "exported_at": "2026-10-13T07:28:40.120Z",
+  "count": 17,
   "listings": [
     {
       "url": "https://inbusiness.aliexpress.com/easysale/en/Apple-Watch-Series-2",
@@ -219,24 +219,6 @@
       }
     },
     {
-      "url": "https://www.aliexpress.us/item/3256813008552353.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256813008552353.html",
-      "page_id": "3256813008552353",
-      "platform": "AliExpress",
-      "name": "Nylon Braided Strap for Google Fitbit Air Bands Fitness Replacement Band Magneti",
-      "category": "尼龙编织",
-      "price": "待补",
-      "sold": "",
-      "snapshot_at": "2026-10-10T16:16:32+08:00",
-      "source_issue": "2026-10-10",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
       "url": "https://www.ebay.com/itm/326754361365",
       "match_host": "ebay.com",
       "match_key": "ebay.com/itm/326754361365",
@@ -339,6 +321,7 @@
   "_src": "GitHub",
   "deleted": [
     "aliexpress.us/item/3256813009792103.html",
-    "ebay.com/itm/398413048309"
+    "ebay.com/itm/398413048309",
+    "aliexpress.us/item/3256813008552353.html"
   ]
 }
