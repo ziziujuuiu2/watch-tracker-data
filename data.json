@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T07:30:21.050Z",
-  "count": 2,
+  "exported_at": "2026-10-13T07:30:33.164Z",
+  "count": 1,
   "listings": [
     {
       "url": "https://detail.1688.com/offer/1088992959968.html",
@@ -14,25 +14,6 @@
       "sold": "",
       "sold_num": null,
       "snapshot_at": "2026-10-13T06:34:47.999Z",
-      "source_issue": "2026-10-13",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
-      "url": "https://detail.1688.com/offer/752205332379.html",
-      "match_host": "detail.1688.com",
-      "match_key": "detail.1688.com/offer/752205332379.html",
-      "page_id": "752205332379",
-      "platform": "detail.1688.com",
-      "name": "适用iwatch11金刚方扣横纹S12硅胶表带apple watch8910苹果手表带 - 阿里巴巴",
-      "category": "硅胶运动",
-      "price": "¥4.5",
-      "sold": "",
-      "sold_num": null,
-      "snapshot_at": "2026-10-13T06:46:51.636Z",
       "source_issue": "2026-10-13",
       "trend": {
         "label": "首记",
@@ -60,6 +41,7 @@
     "shopee.tw/【推薦新品】-超獨特設計手鏈式金屬錶帶-適用apple-watch-s11-s10-42-46-40-44mm-se3-i.317974408.25997524189",
     "shopee.tw/-愛心造型米蘭不鏽鋼apple-watch錶帶s12-s11-se3-40-44-42-46mm-i.317974408.43531692046",
     "shopee.tw/《隔日到貨》適用-apple-watch-金屬錶帶-鈦合金錶帶-s11-s10-49-46mm-男士錶帶-ultra-i.965139274.24911372263",
-    "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478"
+    "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
+    "detail.1688.com/offer/752205332379.html"
   ]
 }
