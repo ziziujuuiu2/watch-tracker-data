@@ -1,27 +1,7 @@
 {
-  "exported_at": "2026-10-13T07:30:33.164Z",
-  "count": 1,
-  "listings": [
-    {
-      "url": "https://detail.1688.com/offer/1088992959968.html",
-      "match_host": "detail.1688.com",
-      "match_key": "detail.1688.com/offer/1088992959968.html",
-      "page_id": "1088992959968",
-      "platform": "detail.1688.com",
-      "name": "适用于华为GT5pro表带硅胶替换GT6pro铠甲反扣华为gt6pro专用接口 - 阿里巴巴",
-      "category": "硅胶运动",
-      "price": "¥6.8",
-      "sold": "",
-      "sold_num": null,
-      "snapshot_at": "2026-10-13T06:34:47.999Z",
-      "source_issue": "2026-10-13",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    }
-  ],
+  "exported_at": "2026-10-13T07:30:37.500Z",
+  "count": 0,
+  "listings": [],
   "_src": "GitHub",
   "deleted": [
     "aliexpress.us/item/3256813009792103.html",
@@ -42,6 +22,7 @@
     "shopee.tw/-愛心造型米蘭不鏽鋼apple-watch錶帶s12-s11-se3-40-44-42-46mm-i.317974408.43531692046",
     "shopee.tw/《隔日到貨》適用-apple-watch-金屬錶帶-鈦合金錶帶-s11-s10-49-46mm-男士錶帶-ultra-i.965139274.24911372263",
     "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
-    "detail.1688.com/offer/752205332379.html"
+    "detail.1688.com/offer/752205332379.html",
+    "detail.1688.com/offer/1088992959968.html"
   ]
 }
