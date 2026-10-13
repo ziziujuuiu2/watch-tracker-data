@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-13T07:21:53.029Z",
+  "exported_at": "2026-10-13T07:22:26.656Z",
   "count": 19,
   "listings": [
     {
@@ -237,24 +237,6 @@
       }
     },
     {
-      "url": "https://www.aliexpress.us/item/3256813009792103.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256813009792103.html",
-      "page_id": "3256813009792103",
-      "platform": "AliExpress",
-      "name": "Elastic Nylon Strap for Google Fitbit Air Band Sport Replacement Wristband Brace",
-      "category": "尼龙编织",
-      "price": "USD 1.09",
-      "sold": "售出 3",
-      "snapshot_at": "2026-10-10T16:42:29+08:00",
-      "source_issue": "2026-10-10",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
       "url": "https://www.ebay.com/itm/326754361365",
       "match_host": "ebay.com",
       "match_key": "ebay.com/itm/326754361365",
@@ -285,6 +267,27 @@
       "category": "金属表带",
       "price": "未核实（页面未显示）",
       "sold": "未核实（页面未显示）",
+      "snapshot_at": "2026-10-12T11:03:22+08:00",
+      "source_issue": "2026-10-12",
+      "trend": {
+        "label": "→ 数据不足",
+        "up": false,
+        "first": false,
+        "from": "2026-10-09",
+        "to": "2026-10-12",
+        "price_changed": true
+      }
+    },
+    {
+      "url": "https://www.ebay.com/itm/398413048309",
+      "match_host": "ebay.com",
+      "match_key": "ebay.com/itm/398413048309",
+      "page_id": "398413048309",
+      "platform": "eBay",
+      "name": "Capybara 磁吸编织表带（卡皮巴拉IP）",
+      "category": "尼龙编织",
+      "price": "$12.55",
+      "sold": "seller feedback 仍0；库存显示Last one",
       "snapshot_at": "2026-10-12T11:03:22+08:00",
       "source_issue": "2026-10-12",
       "trend": {
@@ -356,6 +359,6 @@
   ],
   "_src": "GitHub",
   "deleted": [
-    "ebay.com/itm/398413048309"
+    "aliexpress.us/item/3256813009792103.html"
   ]
 }
