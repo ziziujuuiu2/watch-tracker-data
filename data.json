@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T07:29:32.341Z",
-  "count": 10,
+  "exported_at": "2026-10-13T07:29:43.894Z",
+  "count": 9,
   "listings": [
     {
       "url": "https://shopee.tw/-愛心造型米蘭不鏽鋼Apple-Watch錶帶S12-S11-SE3-40-44-42-46mm-i.317974408.43531692046",
@@ -86,24 +86,6 @@
       "sold": "未核实",
       "snapshot_at": "2026-10-09T10:30:00+08:00",
       "source_issue": "2026-10-09",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
-      "url": "https://www.aliexpress.us/item/3256812108634083.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256812108634083.html",
-      "page_id": "3256812108634083",
-      "platform": "AliExpress",
-      "name": "Round Curve End Watch Belt 20mm 21mm 22mm Waterproof FKM Rubber Watch Strap Band",
-      "category": "硅胶运动",
-      "price": "USD 19.87",
-      "sold": "未核实",
-      "snapshot_at": "2026-10-10T16:57:27+08:00",
-      "source_issue": "2026-10-10",
       "trend": {
         "label": "首记",
         "up": false,
@@ -202,6 +184,7 @@
     "shop.tiktok.com/us/pdp/womens-pendant-embellished-apple-watch-band-adjustable-38-49mm/1732524746427896620",
     "aliexpress.us/item/3256807365263211.html",
     "inbusiness.aliexpress.com/easysale/en/apple-watch-series-2",
-    "aliexpress.us/item/3256812755173002.html"
+    "aliexpress.us/item/3256812755173002.html",
+    "aliexpress.us/item/3256812108634083.html"
   ]
 }
