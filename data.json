@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T07:29:49.459Z",
-  "count": 8,
+  "exported_at": "2026-10-13T07:29:54.944Z",
+  "count": 7,
   "listings": [
     {
       "url": "https://shopee.tw/-愛心造型米蘭不鏽鋼Apple-Watch錶帶S12-S11-SE3-40-44-42-46mm-i.317974408.43531692046",
@@ -93,27 +93,6 @@
       }
     },
     {
-      "url": "https://www.ebay.com/itm/389109381609",
-      "match_host": "ebay.com",
-      "match_key": "ebay.com/itm/389109381609",
-      "page_id": "389109381609",
-      "platform": "eBay",
-      "name": "Magnetic Double-Section 双节磁吸不锈钢表带",
-      "category": "金属表带",
-      "price": "未核实（页面未显示）",
-      "sold": "未核实（页面未显示）",
-      "snapshot_at": "2026-10-12T11:03:22+08:00",
-      "source_issue": "2026-10-12",
-      "trend": {
-        "label": "→ 数据不足",
-        "up": false,
-        "first": false,
-        "from": "2026-10-09",
-        "to": "2026-10-12",
-        "price_changed": true
-      }
-    },
-    {
       "url": "https://detail.1688.com/offer/1088992959968.html",
       "match_host": "detail.1688.com",
       "match_key": "detail.1688.com/offer/1088992959968.html",
@@ -165,6 +144,7 @@
     "inbusiness.aliexpress.com/easysale/en/apple-watch-series-2",
     "aliexpress.us/item/3256812755173002.html",
     "aliexpress.us/item/3256812108634083.html",
-    "ebay.com/itm/326754361365"
+    "ebay.com/itm/326754361365",
+    "ebay.com/itm/389109381609"
   ]
 }
