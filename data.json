@@ -1,7 +1,25 @@
 {
-  "exported_at": "2026-10-13T07:28:52.940Z",
+  "exported_at": "2026-10-13T07:28:55.040Z",
   "count": 16,
   "listings": [
+    {
+      "url": "https://inbusiness.aliexpress.com/easysale/en/Apple-Watch-Series-2",
+      "match_host": "inbusiness.aliexpress.com",
+      "match_key": "inbusiness.aliexpress.com/easysale/en/apple-watch-series-2",
+      "page_id": null,
+      "platform": "AliExpress",
+      "name": "Business批发页：DLC钛磁吸带+Kebitt Burgundy Alpine带（Ultra 4/Series 12）",
+      "category": "金属表带",
+      "price": "DLC款2.82/Kebitt款0.25",
+      "sold": "DLC款未核实/Kebitt款1 sold",
+      "snapshot_at": "2026-10-12T11:03:17+08:00",
+      "source_issue": "2026-10-12",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
     {
       "url": "https://shop.tiktok.com/us/pdp/1732409761109938425",
       "match_host": "shop.tiktok.com",
@@ -183,24 +201,6 @@
       }
     },
     {
-      "url": "https://www.aliexpress.us/item/3256813008552353.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256813008552353.html",
-      "page_id": "3256813008552353",
-      "platform": "AliExpress",
-      "name": "Nylon Braided Strap for Google Fitbit Air Bands Fitness Replacement Band Magneti",
-      "category": "尼龙编织",
-      "price": "待补",
-      "sold": "",
-      "snapshot_at": "2026-10-10T16:16:32+08:00",
-      "source_issue": "2026-10-10",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
       "url": "https://www.ebay.com/itm/326754361365",
       "match_host": "ebay.com",
       "match_key": "ebay.com/itm/326754361365",
@@ -305,6 +305,6 @@
     "aliexpress.us/item/3256813009792103.html",
     "ebay.com/itm/398413048309",
     "shop.tiktok.com/us/pdp/braided-nylon-magnetic-smart-watch-band-durable-stylish/1732311674818696089",
-    "inbusiness.aliexpress.com/easysale/en/apple-watch-series-2"
+    "aliexpress.us/item/3256813008552353.html"
   ]
 }
