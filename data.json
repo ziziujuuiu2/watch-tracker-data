@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T07:29:09.841Z",
-  "count": 14,
+  "exported_at": "2026-10-13T07:29:15.465Z",
+  "count": 13,
   "listings": [
     {
       "url": "https://inbusiness.aliexpress.com/easysale/en/Apple-Watch-Series-2",
@@ -14,24 +14,6 @@
       "sold": "DLC款未核实/Kebitt款1 sold",
       "snapshot_at": "2026-10-12T11:03:17+08:00",
       "source_issue": "2026-10-12",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
-      "url": "https://shop.tiktok.com/us/pdp/womens-pendant-embellished-apple-watch-band-adjustable-38-49mm/1732524746427896620",
-      "match_host": "shop.tiktok.com",
-      "match_key": "shop.tiktok.com/us/pdp/womens-pendant-embellished-apple-watch-band-adjustable-38-49mm/1732524746427896620",
-      "page_id": "1732524746427896620",
-      "platform": "TikTok Shop",
-      "name": "SohoChic 吊坠手链表带（女款）",
-      "category": "饰品表带",
-      "price": "未核实",
-      "sold": "未核实",
-      "snapshot_at": "2026-10-09T10:30:00+08:00",
-      "source_issue": "2026-10-09",
       "trend": {
         "label": "首记",
         "up": false,
@@ -271,6 +253,7 @@
     "shop.tiktok.com/us/pdp/braided-nylon-magnetic-smart-watch-band-durable-stylish/1732311674818696089",
     "aliexpress.us/item/3256813008552353.html",
     "shop.tiktok.com/us/pdp/1732409761109938425",
-    "shop.tiktok.com/us/pdp/leather-apple-watch-band-genuine-leather-fits-all-series-unique-designs/1732177977145529292"
+    "shop.tiktok.com/us/pdp/leather-apple-watch-band-genuine-leather-fits-all-series-unique-designs/1732177977145529292",
+    "shop.tiktok.com/us/pdp/womens-pendant-embellished-apple-watch-band-adjustable-38-49mm/1732524746427896620"
   ]
 }
