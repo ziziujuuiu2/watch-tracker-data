@@ -1,25 +1,7 @@
 {
-  "exported_at": "2026-10-13T07:29:21.267Z",
-  "count": 12,
+  "exported_at": "2026-10-13T07:29:26.290Z",
+  "count": 11,
   "listings": [
-    {
-      "url": "https://inbusiness.aliexpress.com/easysale/en/Apple-Watch-Series-2",
-      "match_host": "inbusiness.aliexpress.com",
-      "match_key": "inbusiness.aliexpress.com/easysale/en/apple-watch-series-2",
-      "page_id": null,
-      "platform": "AliExpress",
-      "name": "Business批发页：DLC钛磁吸带+Kebitt Burgundy Alpine带（Ultra 4/Series 12）",
-      "category": "金属表带",
-      "price": "DLC款2.82/Kebitt款0.25",
-      "sold": "DLC款未核实/Kebitt款1 sold",
-      "snapshot_at": "2026-10-12T11:03:17+08:00",
-      "source_issue": "2026-10-12",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
     {
       "url": "https://shopee.tw/-愛心造型米蘭不鏽鋼Apple-Watch錶帶S12-S11-SE3-40-44-42-46mm-i.317974408.43531692046",
       "match_host": "shopee.tw",
@@ -236,6 +218,7 @@
     "shop.tiktok.com/us/pdp/1732409761109938425",
     "shop.tiktok.com/us/pdp/leather-apple-watch-band-genuine-leather-fits-all-series-unique-designs/1732177977145529292",
     "shop.tiktok.com/us/pdp/womens-pendant-embellished-apple-watch-band-adjustable-38-49mm/1732524746427896620",
-    "aliexpress.us/item/3256807365263211.html"
+    "aliexpress.us/item/3256807365263211.html",
+    "inbusiness.aliexpress.com/easysale/en/apple-watch-series-2"
   ]
 }
