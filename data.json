@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T08:44:33.617Z",
-  "count": 2,
+  "exported_at": "2026-10-13T10:19:14.691Z",
+  "count": 3,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
@@ -49,6 +49,33 @@
         "Galaxy Watch Ultra 2"
       ],
       "snapshot_at": "2026-10-13T08:27:51.359Z",
+      "source_issue": "2026-10-13",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://shopee.sg/Ready-Stock-Whoop-5.0-MG-Silicone-Strap-ECG-Compatible-Replacement-Band-Sport-Fitness-Wristband-i.1637490785.53863935989",
+      "match_host": "shopee.sg",
+      "match_key": "shopee.sg/ready-stock-whoop-5.0-mg-silicone-strap-ecg-compatible-replacement-band-sport-fitness-wristband-i.1637490785.53863935989",
+      "page_id": "1637490785",
+      "platform": "Shopee",
+      "name": "Ready Stock | Whoop 5.0 MG Silicone Strap | ECG Compatible Replacement Band | Sp",
+      "category": "硅胶运动",
+      "price": "SGD 17.21",
+      "sold": "已售出 17",
+      "sold_num": 17,
+      "rating": "5.00",
+      "reviews": "5",
+      "reviews_num": 5,
+      "seller": "",
+      "listed_at": "",
+      "colors": [
+        "Starlight Color"
+      ],
+      "snapshot_at": "2026-10-13T10:19:13.601Z",
       "source_issue": "2026-10-13",
       "trend": {
         "label": "首记",
