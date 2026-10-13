@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T06:31:26.854Z",
-  "count": 18,
+  "exported_at": "2026-10-13T06:34:48.003Z",
+  "count": 19,
   "listings": [
     {
       "url": "https://inbusiness.aliexpress.com/easysale/en/Apple-Watch-Series-2",
@@ -329,6 +329,25 @@
       "sold": "10,000+ sold",
       "sold_num": 10000,
       "snapshot_at": "2026-10-13T06:31:25.712Z",
+      "source_issue": "2026-10-13",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://detail.1688.com/offer/1088992959968.html",
+      "match_host": "detail.1688.com",
+      "match_key": "detail.1688.com/offer/1088992959968.html",
+      "page_id": "1088992959968",
+      "platform": "detail.1688.com",
+      "name": "适用于华为GT5pro表带硅胶替换GT6pro铠甲反扣华为gt6pro专用接口 - 阿里巴巴",
+      "category": "硅胶运动",
+      "price": "¥6.8",
+      "sold": "",
+      "sold_num": null,
+      "snapshot_at": "2026-10-13T06:34:47.999Z",
       "source_issue": "2026-10-13",
       "trend": {
         "label": "首记",
