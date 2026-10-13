@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-13T10:19:14.691Z",
-  "count": 3,
+  "exported_at": "2026-10-13T10:19:29.327Z",
+  "count": 2,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
@@ -55,33 +55,6 @@
         "up": false,
         "first": true
       }
-    },
-    {
-      "url": "https://shopee.sg/Ready-Stock-Whoop-5.0-MG-Silicone-Strap-ECG-Compatible-Replacement-Band-Sport-Fitness-Wristband-i.1637490785.53863935989",
-      "match_host": "shopee.sg",
-      "match_key": "shopee.sg/ready-stock-whoop-5.0-mg-silicone-strap-ecg-compatible-replacement-band-sport-fitness-wristband-i.1637490785.53863935989",
-      "page_id": "1637490785",
-      "platform": "Shopee",
-      "name": "Ready Stock | Whoop 5.0 MG Silicone Strap | ECG Compatible Replacement Band | Sp",
-      "category": "硅胶运动",
-      "price": "SGD 17.21",
-      "sold": "已售出 17",
-      "sold_num": 17,
-      "rating": "5.00",
-      "reviews": "5",
-      "reviews_num": 5,
-      "seller": "",
-      "listed_at": "",
-      "colors": [
-        "Starlight Color"
-      ],
-      "snapshot_at": "2026-10-13T10:19:13.601Z",
-      "source_issue": "2026-10-13",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
     }
   ],
   "_src": "GitHub",
@@ -106,6 +79,7 @@
     "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
     "detail.1688.com/offer/752205332379.html",
     "detail.1688.com/offer/1088992959968.html",
-    "1688.com"
+    "1688.com",
+    "shopee.sg/ready-stock-whoop-5.0-mg-silicone-strap-ecg-compatible-replacement-band-sport-fitness-wristband-i.1637490785.53863935989"
   ]
 }
