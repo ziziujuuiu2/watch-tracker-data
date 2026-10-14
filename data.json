@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-14T06:06:39.462Z",
-  "count": 12,
+  "exported_at": "2026-10-14T06:06:57.481Z",
+  "count": 11,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256812618840113.html",
@@ -56,33 +56,6 @@
         "up": false,
         "first": true
       }
-    },
-    {
-      "url": "https://www.ebay.com/itm/365783767192",
-      "match_host": "ebay.com",
-      "match_key": "ebay.com/itm/365783767192",
-      "page_id": "365783767192",
-      "platform": "eBay",
-      "name": "Armband für Xiaomi Redmi Watch 5 Active / Lite / S1 / S2 / S3 / S4 Pro / S5 Band",
-      "category": "尼龙编织",
-      "price": "USD 8.91",
-      "sold": "33 sold",
-      "rating": "4.9",
-      "reviews": "",
-      "reviews_num": null,
-      "seller": "",
-      "listed_at": "约2026-09-16（eBay站内 Last updated Sep 16, 2026 PDT，置信度中）",
-      "colors": [],
-      "auto": false,
-      "pick_reason": "",
-      "snapshot_at": "2026-10-14T03:30:23.554Z",
-      "source_issue": "2026-10-14",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      },
-      "sold_num": 33
     },
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
@@ -359,7 +332,8 @@
     "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
     "shopee.tw/search",
     "aliexpress.us/item/3256812920245777.html",
-    "ebay.ca/itm/386502376859"
+    "ebay.ca/itm/386502376859",
+    "ebay.com/itm/365783767192"
   ],
   "_src": "GitHub"
 }
