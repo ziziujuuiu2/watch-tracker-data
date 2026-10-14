@@ -1,38 +1,7 @@
 {
-  "exported_at": "2026-10-14T08:51:55.534Z",
-  "count": 2,
+  "exported_at": "2026-10-14T08:52:14.174Z",
+  "count": 1,
   "listings": [
-    {
-      "url": "https://www.aliexpress.us/item/3256811345345424.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256811345345424.html",
-      "page_id": "3256811345345424",
-      "platform": "AliExpress",
-      "name": "Spigen Lite Fit Ultra Strap Designed For Apple Watch Band Compatible With Ultra ",
-      "category": "其他",
-      "price": "USD 1.09",
-      "sold": "(721 Orders)",
-      "sold_num": 721,
-      "rating": "4.3",
-      "reviews": "103",
-      "reviews_num": 103,
-      "seller": "",
-      "listed_at": "",
-      "colors": [
-        "With Box",
-        "49mm",
-        "46mm",
-        "45mm",
-        "44mm"
-      ],
-      "snapshot_at": "2026-10-14T08:18:00.838Z",
-      "source_issue": "2026-10-14",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
     {
       "url": "https://www.aliexpress.com/item/3256810144142365.html",
       "match_host": "aliexpress.com",
@@ -106,7 +75,8 @@
     "aliexpress.com/item/1005003911549395.html",
     "aliexpress.us/item/3256807801335852.html",
     "aliexpress.us/item/3256813008552353.html",
-    "aliexpress.us/item/3256812618840113.html"
+    "aliexpress.us/item/3256812618840113.html",
+    "aliexpress.us/item/3256811345345424.html"
   ],
   "_src": "GitHub"
 }
