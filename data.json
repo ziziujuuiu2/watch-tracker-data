@@ -1,36 +1,7 @@
 {
-  "exported_at": "2026-10-14T09:10:26.330Z",
-  "count": 1,
-  "listings": [
-    {
-      "url": "https://www.aliexpress.us/item/3256812987910295.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256812987910295.html",
-      "page_id": "3256812987910295",
-      "platform": "AliExpress",
-      "name": "Kebitt 2026 New Burgundy Alpine Bands For Apple Watch Ultra 4 3 2 Series 12 11 1",
-      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S91f23b4dbab34a74b8026f76b9f1b12eS.jpg",
-      "category": "其他",
-      "price": "$40.12",
-      "sold": "122 sold",
-      "sold_num": 122,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
-      "seller": "",
-      "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T09:09:18.724Z",
-      "source_issue": "2026-10-14",
-      "auto": false,
-      "pick_reason": "雷达手动圈选",
-      "trend": {
-        "label": "新选入",
-        "up": false,
-        "first": true
-      }
-    }
-  ],
+  "exported_at": "2026-10-14T09:10:35.545Z",
+  "count": 0,
+  "listings": [],
   "deleted": [
     "1688.com",
     "aliexpress.us/item/3256807365263211.html",
@@ -77,7 +48,8 @@
     "aliexpress.us/item/3256813008552353.html",
     "aliexpress.us/item/3256812618840113.html",
     "aliexpress.us/item/3256811345345424.html",
-    "aliexpress.com/item/3256810144142365.html"
+    "aliexpress.com/item/3256810144142365.html",
+    "aliexpress.us/item/3256812987910295.html"
   ],
   "_src": "GitHub"
 }
