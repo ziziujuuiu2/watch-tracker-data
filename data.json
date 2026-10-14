@@ -1,38 +1,7 @@
 {
-  "exported_at": "2026-10-14T07:53:48.707Z",
-  "count": 1,
-  "listings": [
-    {
-      "url": "https://www.aliexpress.us/item/3256812618840113.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256812618840113.html",
-      "page_id": "3256812618840113",
-      "platform": "AliExpress",
-      "name": "PC Case+Glass for Samsung Galaxy Watch Ultra 2 Tempered Glass Screen Protector H",
-      "category": "其他",
-      "price": "USD 1.09",
-      "sold": "1,000+ sold",
-      "rating": "4.4",
-      "reviews": "177",
-      "reviews_num": 177,
-      "seller": "",
-      "listed_at": "",
-      "colors": [
-        "Galaxy Watch Ultra 2"
-      ],
-      "auto": false,
-      "pick_reason": "",
-      "snapshot_at": "2026-10-14T07:13:06.041Z",
-      "source_issue": "2026-10-14",
-      "trend": {
-        "label": "持平",
-        "up": false,
-        "from": "1000",
-        "to": "1000"
-      },
-      "sold_num": 1000
-    }
-  ],
+  "exported_at": "2026-10-14T07:53:54.503Z",
+  "count": 0,
+  "listings": [],
   "deleted": [
     "1688.com",
     "aliexpress.us/item/3256807365263211.html",
@@ -76,7 +45,8 @@
     "aliexpress.com/item/1005003610410582.html",
     "aliexpress.com/item/1005003911549395.html",
     "aliexpress.us/item/3256807801335852.html",
-    "aliexpress.us/item/3256813008552353.html"
+    "aliexpress.us/item/3256813008552353.html",
+    "aliexpress.us/item/3256812618840113.html"
   ],
   "_src": "GitHub"
 }
