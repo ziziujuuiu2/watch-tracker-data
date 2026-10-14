@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-14T07:53:17.223Z",
-  "count": 3,
+  "exported_at": "2026-10-14T07:53:46.310Z",
+  "count": 2,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256812618840113.html",
@@ -59,37 +59,6 @@
         "from": "106",
         "to": "106"
       }
-    },
-    {
-      "url": "https://www.aliexpress.us/item/3256807801335852.html",
-      "match_host": "",
-      "match_key": "aliexpress.us/item/3256807801335852.html",
-      "page_id": "3256807801335852",
-      "platform": "AliExpress",
-      "name": "URVOI Band for Apple Watch Ultra 4 3 Alpine Loop Series 12 11 10 SE Black G-Hook",
-      "category": "其他",
-      "price": "USD 4.45",
-      "sold": "(1039 Orders)",
-      "sold_num": 1039,
-      "rating": "4.9",
-      "reviews": "67",
-      "reviews_num": 67,
-      "seller": "",
-      "listed_at": "",
-      "colors": [
-        "44 45 46 49mm",
-        "For Apple Watch"
-      ],
-      "snapshot_at": "2026-10-14T07:12:16.198Z",
-      "source_issue": "2026-10-14",
-      "auto": false,
-      "pick_reason": "雷达手动圈选",
-      "trend": {
-        "label": "销量 ↑ +539 (+108%)",
-        "up": true,
-        "from": "500",
-        "to": "1039"
-      }
     }
   ],
   "deleted": [
@@ -133,7 +102,8 @@
     "aliexpress.us/item/3256812894905347.html",
     "aliexpress.us/item/3256812902812607.html",
     "aliexpress.com/item/1005003610410582.html",
-    "aliexpress.com/item/1005003911549395.html"
+    "aliexpress.com/item/1005003911549395.html",
+    "aliexpress.us/item/3256807801335852.html"
   ],
   "_src": "GitHub"
 }
