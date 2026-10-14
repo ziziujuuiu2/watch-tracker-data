@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-14T07:10:50.532Z",
+  "exported_at": "2026-10-14T07:13:56.801Z",
   "count": 17,
   "listings": [
     {
@@ -22,12 +22,13 @@
       ],
       "auto": false,
       "pick_reason": "",
-      "snapshot_at": "2026-10-14T03:28:57.651Z",
+      "snapshot_at": "2026-10-14T07:13:06.041Z",
       "source_issue": "2026-10-14",
       "trend": {
-        "label": "首记",
+        "label": "持平",
         "up": false,
-        "first": true
+        "from": "1000",
+        "to": "1000"
       },
       "sold_num": 1000
     },
@@ -50,12 +51,13 @@
       "colors": [
         "Google Fitbit Air"
       ],
-      "snapshot_at": "2026-10-14T03:30:55.980Z",
+      "snapshot_at": "2026-10-14T07:13:11.643Z",
       "source_issue": "2026-10-13",
       "trend": {
-        "label": "首记",
+        "label": "持平",
         "up": false,
-        "first": true
+        "from": "106",
+        "to": "106"
       }
     },
     {
@@ -66,24 +68,29 @@
       "platform": "AliExpress",
       "name": "Tempered Glass Screen Protectors for Xiaomi Mi Band 10 HD Anti-scratch Protectiv",
       "category": "自动选品",
-      "price": "$1.09",
-      "sold": "59 sold",
-      "sold_num": 59,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 1.09",
+      "sold": "9 sold",
+      "sold_num": 9,
+      "rating": "5.0",
+      "reviews": "3",
+      "reviews_num": 3,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T06:01:51.362Z",
+      "colors": [
+        "1PCS",
+        "2PCS",
+        "3PCS"
+      ],
+      "snapshot_at": "2026-10-14T07:13:29.664Z",
       "source_issue": "2026-10-14",
       "auto": true,
       "pick_reason": "销量59｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-glass-小米手環-10.html",
       "trend": {
-        "label": "新选入",
+        "label": "销量 ↓ -50",
         "up": false,
-        "first": true
+        "from": "59",
+        "to": "9"
       }
     },
     {
@@ -94,24 +101,29 @@
       "platform": "AliExpress",
       "name": "PC Hard Case + Glass For Xiaomi Mi Band 10 9 8 Screen Protector Bumper Protectiv",
       "category": "自动选品",
-      "price": "$1.09",
-      "sold": "515 sold",
-      "sold_num": 515,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 1.09",
+      "sold": "15 sold",
+      "sold_num": 15,
+      "rating": "5.0",
+      "reviews": "5",
+      "reviews_num": 5,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T06:01:51.362Z",
+      "colors": [
+        "Xiaomi Mi Band 8",
+        "Xiaomi Mi Band 9",
+        "Xiaomi Mi Band 10"
+      ],
+      "snapshot_at": "2026-10-14T07:12:20.317Z",
       "source_issue": "2026-10-14",
       "auto": true,
       "pick_reason": "销量515｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-glass-小米手環-10.html",
       "trend": {
-        "label": "新选入",
+        "label": "销量 ↓ -500",
         "up": false,
-        "first": true
+        "from": "515",
+        "to": "15"
       }
     },
     {
@@ -122,24 +134,28 @@
       "platform": "AliExpress",
       "name": "2 in 1 Protective Case for Xiaomi Band10 Miband 9 Hard PC Shell with Tempered Gl",
       "category": "自动选品",
-      "price": "10 $",
-      "sold": "511 sold",
-      "sold_num": 511,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 1.09",
+      "sold": "11 sold",
+      "sold_num": 11,
+      "rating": "5.0",
+      "reviews": "3",
+      "reviews_num": 3,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T06:01:51.362Z",
+      "colors": [
+        "for Miband 9",
+        "for Miband 10"
+      ],
+      "snapshot_at": "2026-10-14T07:13:48.075Z",
       "source_issue": "2026-10-14",
       "auto": true,
       "pick_reason": "销量511｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-glass-小米手環-10.html",
       "trend": {
-        "label": "新选入",
+        "label": "销量 ↓ -500",
         "up": false,
-        "first": true
+        "from": "511",
+        "to": "11"
       }
     },
     {
@@ -150,24 +166,29 @@
       "platform": "AliExpress",
       "name": "1-3PCS 3D Curved Screen Protector For Xiaomi Mi Band 10 Anti-scratch Soft Temper",
       "category": "自动选品",
-      "price": "$1.09",
-      "sold": "329 sold",
-      "sold_num": 329,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 1.09",
+      "sold": "29 sold",
+      "sold_num": 29,
+      "rating": "3.0",
+      "reviews": "3",
+      "reviews_num": 3,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T06:01:51.362Z",
+      "colors": [
+        "1PCS",
+        "2PCS",
+        "3PCS"
+      ],
+      "snapshot_at": "2026-10-14T07:13:25.154Z",
       "source_issue": "2026-10-14",
       "auto": true,
       "pick_reason": "销量329｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-glass-小米手環-10.html",
       "trend": {
-        "label": "新选入",
+        "label": "销量 ↓ -300",
         "up": false,
-        "first": true
+        "from": "329",
+        "to": "29"
       }
     },
     {
@@ -178,24 +199,37 @@
       "platform": "AliExpress",
       "name": "20mm 22mm Alpine Nylon Loop Strap for Xiaomi Watch 5/S5-4-3-2 Soft Comfortable C",
       "category": "自动选品",
-      "price": "$1.09",
-      "sold": "512 sold",
-      "sold_num": 512,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 1.09",
+      "sold": "12 sold",
+      "sold_num": 12,
+      "rating": "5.0",
+      "reviews": "1",
+      "reviews_num": 1,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T06:02:14.105Z",
+      "colors": [
+        "For width 22mm",
+        "For width 20mm",
+        "Xiaomi Watch S5-4-3",
+        "Xiaomi S4 Sport",
+        "OPPO Watch S",
+        "OPPO Watch X2",
+        "Oneplus Watch Lite",
+        "Oneplus Watch 3 2 2R",
+        "Realme Watch 5",
+        "Realme Watch S",
+        "Realme Watch 3 Pro"
+      ],
+      "snapshot_at": "2026-10-14T07:13:07.432Z",
       "source_issue": "2026-10-14",
       "auto": true,
       "pick_reason": "销量512｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-尼龙魔术贴表带-xiaomi-s5.html",
       "trend": {
-        "label": "新选入",
+        "label": "销量 ↓ -500",
         "up": false,
-        "first": true
+        "from": "512",
+        "to": "12"
       }
     },
     {
@@ -206,24 +240,36 @@
       "platform": "AliExpress",
       "name": "20mm 22mm Nylon Strap For Amazfit T-Rex3 Pro/Active 3-2/Max/Bip 6-5 Bracelet Red",
       "category": "自动选品",
-      "price": "2 $",
-      "sold": "423 sold",
-      "sold_num": 423,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 1.09",
+      "sold": "23 sold",
+      "sold_num": 23,
+      "rating": "4.0",
+      "reviews": "9",
+      "reviews_num": 9,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T06:02:14.105Z",
+      "colors": [
+        "For width 22mm",
+        "T-Rex3 Pro 48mm",
+        "For width 20mm",
+        "Redmi Watch 5 Lite",
+        "Redmi Watch 5 Active",
+        "Amazfit Bip 6-5",
+        "Amazfit Active Max",
+        "Xiaomi Watch S5-4-3",
+        "Amazfit Active 3-2",
+        "T-Rex3 Pro 44mm"
+      ],
+      "snapshot_at": "2026-10-14T07:12:37.706Z",
       "source_issue": "2026-10-14",
       "auto": true,
       "pick_reason": "销量423｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-尼龙魔术贴表带-xiaomi-s5.html",
       "trend": {
-        "label": "新选入",
+        "label": "销量 ↓ -400",
         "up": false,
-        "first": true
+        "from": "423",
+        "to": "23"
       }
     },
     {
@@ -234,23 +280,27 @@
       "platform": "AliExpress",
       "name": "URVOI Band for Apple Watch Ultra 4 3 Alpine Loop Series 12 11 10 SE Black G-Hook",
       "category": "其他",
-      "price": "$4.49",
-      "sold": "500+ sold",
-      "sold_num": 500,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 4.45",
+      "sold": "(1039 Orders)",
+      "sold_num": 1039,
+      "rating": "4.9",
+      "reviews": "67",
+      "reviews_num": 67,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T06:06:04.454Z",
+      "colors": [
+        "44 45 46 49mm",
+        "For Apple Watch"
+      ],
+      "snapshot_at": "2026-10-14T07:12:16.198Z",
       "source_issue": "2026-10-14",
       "auto": false,
       "pick_reason": "雷达手动圈选",
       "trend": {
-        "label": "新选入",
-        "up": false,
-        "first": true
+        "label": "销量 ↑ +539 (+108%)",
+        "up": true,
+        "from": "500",
+        "to": "1039"
       }
     },
     {
@@ -289,24 +339,35 @@
       "platform": "AliExpress",
       "name": "20/22mm Nylon Braided Band for Xiaomi Watch 5 S5 S4-3-2 Parachute Buckle Strap O",
       "category": "自动选品",
-      "price": "$1.09",
-      "sold": "519 sold",
-      "sold_num": 519,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 1.09",
+      "sold": "19 sold",
+      "sold_num": 19,
+      "rating": "5.0",
+      "reviews": "5",
+      "reviews_num": 5,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T07:10:16.838Z",
+      "colors": [
+        "22MM Width Band",
+        "20MM Width Band",
+        "Xiaomi Watch 5",
+        "OPPO Watch S",
+        "OPPO Watch S-X3-X2-X",
+        "Oneplus Watch Lite",
+        "Realme Watch 5 S 3 2",
+        "Xiaomi S5-S4-S3-S2",
+        "OnePlus Watch 4-3-2"
+      ],
+      "snapshot_at": "2026-10-14T07:13:42.715Z",
       "source_issue": "2026-10-14",
       "auto": true,
       "pick_reason": "销量519｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-尼龙魔术贴表带-xiaomi-s5.html?SortType=create_desc",
       "trend": {
-        "label": "新选入",
+        "label": "销量 ↓ -500",
         "up": false,
-        "first": true
+        "from": "519",
+        "to": "19"
       }
     },
     {
@@ -317,24 +378,28 @@
       "platform": "AliExpress",
       "name": "20mm 22mm Nylon Bracelet For Xiaomi Watch S5 S4 Sport S3 S2 S1Pro color2 Mi Watc",
       "category": "自动选品",
-      "price": "$1.09",
-      "sold": "53 sold",
-      "sold_num": 53,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 1.09",
+      "sold": "3 sold",
+      "sold_num": 3,
+      "rating": "5.0",
+      "reviews": "1",
+      "reviews_num": 1,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T07:10:16.838Z",
+      "colors": [
+        "20mm",
+        "22mm"
+      ],
+      "snapshot_at": "2026-10-14T07:13:44.218Z",
       "source_issue": "2026-10-14",
       "auto": true,
       "pick_reason": "销量53｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-尼龙魔术贴表带-xiaomi-s5.html?SortType=create_desc",
       "trend": {
-        "label": "新选入",
+        "label": "销量 ↓ -50",
         "up": false,
-        "first": true
+        "from": "53",
+        "to": "3"
       }
     },
     {
@@ -345,24 +410,27 @@
       "platform": "AliExpress",
       "name": "Rugged Metal+Rubber Strap For Apple Watch Ultra 4 3 2 Bands 49mm Correa Bracelet",
       "category": "自动选品",
-      "price": "$25.43",
-      "sold": "53 sold",
-      "sold_num": 53,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 25.43",
+      "sold": "3 sold",
+      "sold_num": 3,
+      "rating": "5.0",
+      "reviews": "1",
+      "reviews_num": 1,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T07:10:40.573Z",
+      "colors": [
+        "49mm Ultra 4 3 2"
+      ],
+      "snapshot_at": "2026-10-14T07:12:47.917Z",
       "source_issue": "2026-10-14",
       "auto": true,
       "pick_reason": "销量53｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-apple-watch-band.html?SortType=create_desc",
       "trend": {
-        "label": "新选入",
+        "label": "销量 ↓ -50",
         "up": false,
-        "first": true
+        "from": "53",
+        "to": "3"
       }
     },
     {
@@ -373,24 +441,29 @@
       "platform": "AliExpress",
       "name": "Luxury Metal Strap for Apple Watch Ultra 3 49mm 44 45 40 41 46mm Magnetic Stainl",
       "category": "自动选品",
-      "price": "$10.74",
-      "sold": "52 sold",
-      "sold_num": 52,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 10.74",
+      "sold": "2 sold",
+      "sold_num": 2,
+      "rating": "5.0",
+      "reviews": "1",
+      "reviews_num": 1,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T07:10:40.573Z",
+      "colors": [
+        "44mm-45mm-46mm-49mm",
+        "38-40-41-42mm S11 10",
+        "Series 1 2 3 42mm"
+      ],
+      "snapshot_at": "2026-10-14T07:12:54.005Z",
       "source_issue": "2026-10-14",
       "auto": true,
       "pick_reason": "销量52｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-apple-watch-band.html?SortType=create_desc",
       "trend": {
-        "label": "新选入",
+        "label": "销量 ↓ -50",
         "up": false,
-        "first": true
+        "from": "52",
+        "to": "2"
       }
     },
     {
@@ -401,24 +474,27 @@
       "platform": "AliExpress",
       "name": "​Strap For Apple Watch Ultra 3 2 1 Bands 49mm Sport Correa Bracelet iWatch Ultra",
       "category": "自动选品",
-      "price": "$25.66",
-      "sold": "51 sold",
-      "sold_num": 51,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
+      "price": "USD 25.66",
+      "sold": "1 sold",
+      "sold_num": 1,
+      "rating": "5.0",
+      "reviews": "1",
+      "reviews_num": 1,
       "seller": "",
       "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T07:10:40.573Z",
+      "colors": [
+        "49mm Series Ultra3 2"
+      ],
+      "snapshot_at": "2026-10-14T07:13:25.445Z",
       "source_issue": "2026-10-14",
       "auto": true,
       "pick_reason": "销量51｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-apple-watch-band.html?SortType=create_desc",
       "trend": {
-        "label": "新选入",
+        "label": "销量 ↓ -50",
         "up": false,
-        "first": true
+        "from": "51",
+        "to": "1"
       }
     },
     {
