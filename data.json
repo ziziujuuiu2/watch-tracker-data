@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-14T07:13:56.801Z",
-  "count": 17,
+  "exported_at": "2026-10-14T07:14:57.890Z",
+  "count": 16,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256812618840113.html",
@@ -124,38 +124,6 @@
         "up": false,
         "from": "515",
         "to": "15"
-      }
-    },
-    {
-      "url": "https://www.aliexpress.us/item/3256812308896754.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256812308896754.html",
-      "page_id": "3256812308896754",
-      "platform": "AliExpress",
-      "name": "2 in 1 Protective Case for Xiaomi Band10 Miband 9 Hard PC Shell with Tempered Gl",
-      "category": "自动选品",
-      "price": "USD 1.09",
-      "sold": "11 sold",
-      "sold_num": 11,
-      "rating": "5.0",
-      "reviews": "3",
-      "reviews_num": 3,
-      "seller": "",
-      "listed_at": "",
-      "colors": [
-        "for Miband 9",
-        "for Miband 10"
-      ],
-      "snapshot_at": "2026-10-14T07:13:48.075Z",
-      "source_issue": "2026-10-14",
-      "auto": true,
-      "pick_reason": "销量511｜评分无",
-      "pick_seed": "https://www.aliexpress.com/w/wholesale-glass-小米手環-10.html",
-      "trend": {
-        "label": "销量 ↓ -500",
-        "up": false,
-        "from": "511",
-        "to": "11"
       }
     },
     {
@@ -581,7 +549,8 @@
     "ebay.ca/itm/386502376859",
     "ebay.com/itm/365783767192",
     "ebay.co.uk/itm/204967285296",
-    "aliexpress.us/item/3256812870584570.html"
+    "aliexpress.us/item/3256812870584570.html",
+    "aliexpress.us/item/3256812308896754.html"
   ],
   "_src": "GitHub"
 }
