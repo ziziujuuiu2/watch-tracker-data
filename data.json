@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-14T06:06:04.454Z",
-  "count": 14,
+  "exported_at": "2026-10-14T06:06:24.880Z",
+  "count": 13,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256812618840113.html",
@@ -334,34 +334,6 @@
       }
     },
     {
-      "url": "https://www.aliexpress.us/item/3256812920245777.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256812920245777.html",
-      "page_id": "3256812920245777",
-      "platform": "AliExpress",
-      "name": "Parachute Straps For Apple Watch Ultra 3 2 Band 49mm 46mm 44mm 40mm 45mm 41mm 42",
-      "category": "自动选品",
-      "price": "7 $",
-      "sold": "558 sold",
-      "sold_num": 558,
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
-      "seller": "",
-      "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-14T06:02:37.548Z",
-      "source_issue": "2026-10-14",
-      "auto": true,
-      "pick_reason": "销量558｜评分无",
-      "pick_seed": "https://www.aliexpress.com/w/wholesale-apple-watch-band.html",
-      "trend": {
-        "label": "新选入",
-        "up": false,
-        "first": true
-      }
-    },
-    {
       "url": "https://www.aliexpress.us/item/3256807801335852.html",
       "match_host": "",
       "match_key": "aliexpress.us/item/3256807801335852.html",
@@ -411,7 +383,8 @@
     "shopee.tw/《隔日到貨》適用-apple-watch-金屬錶帶-鈦合金錶帶-s11-s10-49-46mm-男士錶帶-ultra-i.965139274.24911372263",
     "shopee.tw/【推薦新品】-超獨特設計手鏈式金屬錶帶-適用apple-watch-s11-s10-42-46-40-44mm-se3-i.317974408.25997524189",
     "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
-    "shopee.tw/search"
+    "shopee.tw/search",
+    "aliexpress.us/item/3256812920245777.html"
   ],
   "_src": "GitHub"
 }
