@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-14T06:06:41.581Z",
-  "count": 11,
+  "exported_at": "2026-10-14T06:06:39.462Z",
+  "count": 12,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256812618840113.html",
@@ -32,20 +32,20 @@
       "sold_num": 1000
     },
     {
-      "url": "https://www.ebay.ca/itm/386502376859",
-      "match_host": "ebay.ca",
-      "match_key": "ebay.ca/itm/386502376859",
-      "page_id": "386502376859",
+      "url": "https://www.ebay.co.uk/itm/204967285296",
+      "match_host": "ebay.co.uk",
+      "match_key": "ebay.co.uk/itm/204967285296",
+      "page_id": "204967285296",
       "platform": "eBay",
-      "name": "Titanium Band for Apple Watch Ultra 4 49mm（蹭Series 12/11/10/9）",
+      "name": "Magnetic Stainless Steel Bracelet Band For Samsung Watch Ultra 2 (2026)",
       "category": "金属表带",
-      "price": "$23.90",
-      "sold": "34 sold",
+      "price": "US $25.48",
+      "sold": "16 sold",
       "rating": "",
       "reviews": "",
       "reviews_num": null,
       "seller": "",
-      "listed_at": "约2026-09-22（eBay站内 Last updated Sep 22, 2026 EDT，置信度中）",
+      "listed_at": "约2026-09-30（搜索引擎首次抓取约14天前，置信度低）",
       "colors": [],
       "auto": false,
       "pick_reason": "",
@@ -56,6 +56,33 @@
         "up": false,
         "first": true
       }
+    },
+    {
+      "url": "https://www.ebay.com/itm/365783767192",
+      "match_host": "ebay.com",
+      "match_key": "ebay.com/itm/365783767192",
+      "page_id": "365783767192",
+      "platform": "eBay",
+      "name": "Armband für Xiaomi Redmi Watch 5 Active / Lite / S1 / S2 / S3 / S4 Pro / S5 Band",
+      "category": "尼龙编织",
+      "price": "USD 8.91",
+      "sold": "33 sold",
+      "rating": "4.9",
+      "reviews": "",
+      "reviews_num": null,
+      "seller": "",
+      "listed_at": "约2026-09-16（eBay站内 Last updated Sep 16, 2026 PDT，置信度中）",
+      "colors": [],
+      "auto": false,
+      "pick_reason": "",
+      "snapshot_at": "2026-10-14T03:30:23.554Z",
+      "source_issue": "2026-10-14",
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      },
+      "sold_num": 33
     },
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
@@ -332,8 +359,7 @@
     "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
     "shopee.tw/search",
     "aliexpress.us/item/3256812920245777.html",
-    "ebay.co.uk/itm/204967285296",
-    "ebay.com/itm/365783767192"
+    "ebay.ca/itm/386502376859"
   ],
   "_src": "GitHub"
 }
