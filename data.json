@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-14T06:06:57.481Z",
-  "count": 11,
+  "exported_at": "2026-10-14T06:06:59.647Z",
+  "count": 10,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256812618840113.html",
@@ -30,32 +30,6 @@
         "first": true
       },
       "sold_num": 1000
-    },
-    {
-      "url": "https://www.ebay.co.uk/itm/204967285296",
-      "match_host": "ebay.co.uk",
-      "match_key": "ebay.co.uk/itm/204967285296",
-      "page_id": "204967285296",
-      "platform": "eBay",
-      "name": "Magnetic Stainless Steel Bracelet Band For Samsung Watch Ultra 2 (2026)",
-      "category": "金属表带",
-      "price": "US $25.48",
-      "sold": "16 sold",
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
-      "seller": "",
-      "listed_at": "约2026-09-30（搜索引擎首次抓取约14天前，置信度低）",
-      "colors": [],
-      "auto": false,
-      "pick_reason": "",
-      "snapshot_at": "2026-10-14T10:09:16+08:00",
-      "source_issue": "2026-10-14",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
     },
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
@@ -333,7 +307,8 @@
     "shopee.tw/search",
     "aliexpress.us/item/3256812920245777.html",
     "ebay.ca/itm/386502376859",
-    "ebay.com/itm/365783767192"
+    "ebay.com/itm/365783767192",
+    "ebay.co.uk/itm/204967285296"
   ],
   "_src": "GitHub"
 }
