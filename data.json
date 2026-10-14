@@ -1,85 +1,7 @@
 {
-  "exported_at": "2026-10-14T03:30:56.548Z",
-  "count": 8,
+  "exported_at": "2026-10-14T03:31:08.075Z",
+  "count": 5,
   "listings": [
-    {
-      "url": "https://shopee.tw/search?keyword=apple%20watch%20錶帶&order=newest",
-      "match_host": "shopee.tw",
-      "match_key": "shopee.tw/search",
-      "page_id": null,
-      "platform": "Shopee",
-      "name": "現貨 新款 小米手環10 透氣硅膠磁吸扣錶帶",
-      "category": "金属表带",
-      "price": "NT$69",
-      "sold": "未核实",
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
-      "seller": "",
-      "listed_at": "2026-10上旬（标题'現貨 新款'+最新排序前列）",
-      "colors": [],
-      "auto": false,
-      "pick_reason": "",
-      "snapshot_at": "2026-10-14T10:09:22+08:00",
-      "source_issue": "2026-10-14",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
-      "url": "https://shopee.tw/search?keyword=fitbit%20錶帶&order=newest",
-      "match_host": "shopee.tw",
-      "match_key": "shopee.tw/search",
-      "page_id": null,
-      "platform": "Shopee",
-      "name": "現貨 新款 小米手環10 透氣硅膠磁吸扣錶帶",
-      "category": "金属表带",
-      "price": "NT$69",
-      "sold": "未核实",
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
-      "seller": "",
-      "listed_at": "2026-10上旬（标题'現貨 新款'+最新排序前列）",
-      "colors": [],
-      "auto": false,
-      "pick_reason": "",
-      "snapshot_at": "2026-10-14T10:09:22+08:00",
-      "source_issue": "2026-10-14",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
-      "url": "https://shopee.tw/search?keyword=小米手錶%20錶帶&order=newest",
-      "match_host": "shopee.tw",
-      "match_key": "shopee.tw/search",
-      "page_id": null,
-      "platform": "Shopee",
-      "name": "現貨 新款 小米手環10 透氣硅膠磁吸扣錶帶",
-      "category": "其他",
-      "price": "NT$69",
-      "sold": "未核实",
-      "rating": "",
-      "reviews": "",
-      "reviews_num": null,
-      "seller": "",
-      "listed_at": "2026-10上旬（标题'現貨 新款'+最新排序前列）",
-      "colors": [],
-      "auto": false,
-      "pick_reason": "",
-      "snapshot_at": "2026-10-14T10:09:22+08:00",
-      "source_issue": "2026-10-14",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
     {
       "url": "https://www.aliexpress.us/item/3256812618840113.html",
       "match_host": "aliexpress.us",
@@ -237,7 +159,8 @@
     "shopee.tw/《台灣出貨》適用-apple-watch-格紋拼色錶帶-磁吸錶帶-格紋錶帶-s11-s10-se-46mm-女士錶帶-i.965139274.24956664527",
     "shopee.tw/《隔日到貨》適用-apple-watch-金屬錶帶-鈦合金錶帶-s11-s10-49-46mm-男士錶帶-ultra-i.965139274.24911372263",
     "shopee.tw/【推薦新品】-超獨特設計手鏈式金屬錶帶-適用apple-watch-s11-s10-42-46-40-44mm-se3-i.317974408.25997524189",
-    "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478"
+    "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
+    "shopee.tw/search"
   ],
   "_src": "GitHub"
 }
