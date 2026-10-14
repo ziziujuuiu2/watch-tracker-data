@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-14T07:53:46.310Z",
-  "count": 2,
+  "exported_at": "2026-10-14T07:53:48.707Z",
+  "count": 1,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256812618840113.html",
@@ -31,34 +31,6 @@
         "to": "1000"
       },
       "sold_num": 1000
-    },
-    {
-      "url": "https://www.aliexpress.us/item/3256813008552353.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256813008552353.html",
-      "page_id": "3256813008552353",
-      "platform": "AliExpress",
-      "name": "Nylon Braided Strap for Google Fitbit Air Bands Fitness Replacement Band Magneti",
-      "category": "尼龙编织",
-      "price": "USD 1.09",
-      "sold": "106 sold",
-      "sold_num": 106,
-      "rating": "4.7",
-      "reviews": "3",
-      "reviews_num": 3,
-      "seller": "",
-      "listed_at": "",
-      "colors": [
-        "Google Fitbit Air"
-      ],
-      "snapshot_at": "2026-10-14T07:13:11.643Z",
-      "source_issue": "2026-10-13",
-      "trend": {
-        "label": "持平",
-        "up": false,
-        "from": "106",
-        "to": "106"
-      }
     }
   ],
   "deleted": [
@@ -103,7 +75,8 @@
     "aliexpress.us/item/3256812902812607.html",
     "aliexpress.com/item/1005003610410582.html",
     "aliexpress.com/item/1005003911549395.html",
-    "aliexpress.us/item/3256807801335852.html"
+    "aliexpress.us/item/3256807801335852.html",
+    "aliexpress.us/item/3256813008552353.html"
   ],
   "_src": "GitHub"
 }
