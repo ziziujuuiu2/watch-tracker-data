@@ -1,32 +1,31 @@
 {
-  "updated_at": "2026-10-14T11:55:13+08:00",
-  "issue": "2026-10-14",
+  "updated_at": "2026-10-16T10:09:53+08:00",
+  "issue": "2026-10-16",
   "topics": [
     {
-      "keyword": "apple 12 ultra",
-      "label": "金属表带",
+      "keyword": "apple whoop5 硅膠耐克",
+      "label": "其他",
       "heat": 60,
-      "reason": "4款本期新收录",
+      "reason": "3款本期新收录",
       "platforms": [
         "Shopee",
         "eBay"
       ],
-      "n": 4
+      "n": 3
     },
     {
-      "keyword": "glass 小米手環 10",
-      "label": "其他",
+      "keyword": "尼龙磁吸透气编织表带 適用谷歌 galaxy",
+      "label": "尼龙编织",
       "heat": 60,
-      "reason": "2款本期新收录",
+      "reason": "1款本期新收录",
       "platforms": [
-        "AliExpress",
         "Shopee"
       ],
-      "n": 2
+      "n": 1
     },
     {
-      "keyword": "尼龙魔术贴表带 xiaomi s5",
-      "label": "尼龙编织",
+      "keyword": "silicone sports adjustable",
+      "label": "硅胶运动",
       "heat": 60,
       "reason": "1款本期新收录",
       "platforms": [
