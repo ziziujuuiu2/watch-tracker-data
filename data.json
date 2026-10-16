@@ -1,35 +1,7 @@
 {
-  "exported_at": "2026-10-16T01:11:30.772Z",
-  "count": 2,
+  "exported_at": "2026-10-16T01:11:40.844Z",
+  "count": 1,
   "listings": [
-    {
-      "url": "https://www.aliexpress.com/item/3256813008552353.html",
-      "match_host": "aliexpress.com",
-      "match_key": "aliexpress.com/item/3256813008552353.html",
-      "page_id": "3256813008552353",
-      "platform": "AliExpress",
-      "name": "Dollar Express",
-      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S98a3d5c0df9e4d23a586b317fe449815Y.jpg",
-      "category": "其他",
-      "price": "US $11.63",
-      "sold": "110 sold",
-      "sold_num": 110,
-      "rating": "4.7",
-      "reviews": "",
-      "reviews_num": null,
-      "seller": "",
-      "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-15T01:13:49.660Z",
-      "source_issue": "2026-10-15",
-      "auto": false,
-      "pick_reason": "AI评分95分(通用智能手表)｜📈 新品起量 · 日均 110 单/天",
-      "trend": {
-        "label": "新选入",
-        "up": false,
-        "first": true
-      }
-    },
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
       "match_host": "aliexpress.us",
@@ -106,7 +78,8 @@
     "aliexpress.us/item/3256812618840113.html",
     "aliexpress.us/item/3256811345345424.html",
     "aliexpress.com/item/3256810144142365.html",
-    "aliexpress.us/item/3256812987910295.html"
+    "aliexpress.us/item/3256812987910295.html",
+    "aliexpress.com/item/3256813008552353.html"
   ],
   "_src": "GitHub"
 }
