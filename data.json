@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-16T10:09:53+08:00",
+  "exported_at": "2026-10-16T02:47:44.456Z",
   "count": 1,
   "listings": [
     {
@@ -8,25 +8,27 @@
       "match_key": "ebay.com/itm/307035979891",
       "page_id": "307035979891",
       "platform": "eBay",
-      "name": "Silicone Sports Adjustable Loop Strap For Google Fitbit Air Replacement Band",
+      "name": "Silicone Sports Adjustable Loop Strap For Google Fitbit Air Replacement Band | e",
       "category": "硅胶运动",
-      "price": "未核实（buy box 未渲染）",
-      "sold": "105 item 评价，29 watching，近一月持续出单",
-      "rating": "",
+      "price": "US $10.13",
+      "sold": "137 sold",
+      "rating": "4.9",
       "reviews": "",
       "reviews_num": null,
       "seller": "",
-      "listed_at": "Last updated Sep 23 2026（多 revision 下仅证更新非首发）",
+      "listed_at": "2026-10-01",
       "colors": [],
       "auto": false,
       "pick_reason": "",
-      "snapshot_at": "2026-10-16T10:35",
+      "snapshot_at": "2026-10-16T02:47:42.288Z",
       "source_issue": "2026-10-16",
       "trend": {
         "label": "首记",
         "up": false,
         "first": true
-      }
+      },
+      "image": "https://i.ebayimg.com/images/g/LOwAAeSw~VhqRMnC/s-l400.jpg",
+      "sold_num": 137
     }
   ],
   "deleted": [
@@ -79,5 +81,5 @@
     "shopee.tw/【推薦新品】-超獨特設計手鏈式金屬錶帶-適用apple-watch-s11-s10-42-46-40-44mm-se3-i.317974408.25997524189",
     "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478"
   ],
-  "_src": "cron-export"
+  "_src": "GitHub"
 }
