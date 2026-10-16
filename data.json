@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-16T07:46:52.889Z",
-  "count": 2,
+  "exported_at": "2026-10-16T07:47:05.110Z",
+  "count": 1,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
@@ -23,32 +23,6 @@
         "Google Fitbit Air"
       ],
       "snapshot_at": "2026-10-16T02:48:15.305Z",
-      "source_issue": "2026-10-16",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      }
-    },
-    {
-      "url": "https://www.1688.com/",
-      "match_host": "1688.com",
-      "match_key": "1688.com",
-      "page_id": "22462580",
-      "platform": "1688",
-      "name": "阿里1688首页",
-      "image": "https://cbu01.alicdn.com/img/ibank/O1CN01hJSqTi25esCTOW4n6_!!2221351107552-0-cib.jpg",
-      "category": "其他",
-      "price": "¥0.04",
-      "sold": "",
-      "sold_num": null,
-      "rating": "4",
-      "reviews": "",
-      "reviews_num": null,
-      "seller": "深圳市谷晟表带贸易有限公司",
-      "listed_at": "",
-      "colors": [],
-      "snapshot_at": "2026-10-16T07:46:52.257Z",
       "source_issue": "2026-10-16",
       "trend": {
         "label": "首记",
