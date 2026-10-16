@@ -1,35 +1,7 @@
 {
-  "exported_at": "2026-10-16T02:48:16.001Z",
-  "count": 2,
+  "exported_at": "2026-10-16T06:18:48.930Z",
+  "count": 1,
   "listings": [
-    {
-      "url": "https://www.ebay.com/itm/307035979891",
-      "match_host": "ebay.com",
-      "match_key": "ebay.com/itm/307035979891",
-      "page_id": "307035979891",
-      "platform": "eBay",
-      "name": "Silicone Sports Adjustable Loop Strap For Google Fitbit Air Replacement Band | e",
-      "category": "硅胶运动",
-      "price": "US $10.13",
-      "sold": "137 sold",
-      "rating": "4.9",
-      "reviews": "",
-      "reviews_num": null,
-      "seller": "",
-      "listed_at": "2026-10-01",
-      "colors": [],
-      "auto": false,
-      "pick_reason": "",
-      "snapshot_at": "2026-10-16T02:47:42.288Z",
-      "source_issue": "2026-10-16",
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
-      },
-      "image": "https://i.ebayimg.com/images/g/LOwAAeSw~VhqRMnC/s-l400.jpg",
-      "sold_num": 137
-    },
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
       "match_host": "aliexpress.us",
@@ -107,7 +79,8 @@
     "shopee.tw/《台灣出貨》適用-apple-watch-格紋拼色錶帶-磁吸錶帶-格紋錶帶-s11-s10-se-46mm-女士錶帶-i.965139274.24956664527",
     "shopee.tw/《隔日到貨》適用-apple-watch-金屬錶帶-鈦合金錶帶-s11-s10-49-46mm-男士錶帶-ultra-i.965139274.24911372263",
     "shopee.tw/【推薦新品】-超獨特設計手鏈式金屬錶帶-適用apple-watch-s11-s10-42-46-40-44mm-se3-i.317974408.25997524189",
-    "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478"
+    "shopee.tw/愛心鋯石-金屬錶帶-適用-apple-watch-錶帶-s12-11-10-9-8-7-se-ultra-蘋果手錶錶帶-i.11999667.27927316478",
+    "ebay.com/itm/307035979891"
   ],
   "_src": "GitHub"
 }
