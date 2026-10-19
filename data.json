@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-19T08:40:55.082Z",
-  "count": 10,
+  "exported_at": "2026-10-19T08:41:01.459Z",
+  "count": 12,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
@@ -276,6 +276,62 @@
       "auto": true,
       "pick_reason": "销量534｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-smart-watch-accessories.html?SortType=create_desc",
+      "trend": {
+        "label": "新选入",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256809840133816.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256809840133816.html",
+      "page_id": "3256809840133816",
+      "platform": "AliExpress",
+      "name": "Strap for Apple Watch 10 Band 44mm 40mm 49mm 45mm 41mm 46mm Magnetic Silicone Lo",
+      "category": "自动选品",
+      "price": "3 $",
+      "sold": "517 sold",
+      "sold_num": 517,
+      "rating": "",
+      "reviews": "",
+      "reviews_num": null,
+      "seller": "",
+      "listed_at": "",
+      "colors": [],
+      "snapshot_at": "2026-10-19T08:39:55.027Z",
+      "source_issue": "2026-10-19",
+      "auto": true,
+      "pick_reason": "销量517｜评分无",
+      "pick_seed": "https://www.aliexpress.com/w/wholesale-apple-watch-band.html?SortType=create_desc",
+      "trend": {
+        "label": "新选入",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256801851331680.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256801851331680.html",
+      "page_id": "3256801851331680",
+      "platform": "AliExpress",
+      "name": "20mm/22mm Silicone band For Amazfit GTS/2/2e/4/3/GTS2 Mini/GTR 4/47mm/GTR2/2e/st",
+      "category": "自动选品",
+      "price": "$1.09",
+      "sold": "511 sold",
+      "sold_num": 511,
+      "rating": "",
+      "reviews": "",
+      "reviews_num": null,
+      "seller": "",
+      "listed_at": "",
+      "colors": [],
+      "snapshot_at": "2026-10-19T08:40:22.054Z",
+      "source_issue": "2026-10-19",
+      "auto": true,
+      "pick_reason": "销量511｜评分无",
+      "pick_seed": "https://www.aliexpress.com/w/wholesale-watch-strap.html?SortType=create_desc",
       "trend": {
         "label": "新选入",
         "up": false,
