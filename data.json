@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-19T08:41:01.459Z",
-  "count": 12,
+  "exported_at": "2026-10-19T08:41:49.073Z",
+  "count": 13,
   "listings": [
     {
       "url": "https://www.aliexpress.us/item/3256813008552353.html",
@@ -332,6 +332,34 @@
       "auto": true,
       "pick_reason": "销量511｜评分无",
       "pick_seed": "https://www.aliexpress.com/w/wholesale-watch-strap.html?SortType=create_desc",
+      "trend": {
+        "label": "新选入",
+        "up": false,
+        "first": true
+      }
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256806565109178.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256806565109178.html",
+      "page_id": "3256806565109178",
+      "platform": "AliExpress",
+      "name": "Alpine Loop Strap for Apple Watch Band 44mm 45mm 46mm 49mm 41mm 40mm Trail Wrist",
+      "category": "自动选品",
+      "price": "3 $",
+      "sold": "427 sold",
+      "sold_num": 427,
+      "rating": "",
+      "reviews": "",
+      "reviews_num": null,
+      "seller": "",
+      "listed_at": "",
+      "colors": [],
+      "snapshot_at": "2026-10-19T08:40:48.057Z",
+      "source_issue": "2026-10-19",
+      "auto": true,
+      "pick_reason": "销量427｜评分无",
+      "pick_seed": "https://www.aliexpress.com/w/wholesale-apple-watch-band.html?SortType=create_desc",
       "trend": {
         "label": "新选入",
         "up": false,
