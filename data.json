@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-20T05:58:10.592Z",
+  "exported_at": "2026-10-20T05:58:34.717Z",
   "count": 13,
   "listings": [
     {
@@ -29,23 +29,6 @@
         "up": true
       },
       "watch_brand": "Fitbit/Whoop等"
-    },
-    {
-      "url": "https://www.aliexpress.us/item/3256809101146327.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256809101146327.html",
-      "platform": "AliExpress",
-      "name": "Case+Silicone Strap for Redmi watch 3 active/Lite band smartwatch Accessories Wa",
-      "category": "自动选品",
-      "price": "$1.09",
-      "sold": "137 sold",
-      "sold_num": 137,
-      "rating": "",
-      "listed_at": "",
-      "snapshot_at": "2026-10-20T01:08:52.636Z",
-      "auto": true,
-      "is_control": false,
-      "pick_reason": "AI undefined分"
     },
     {
       "url": "https://www.aliexpress.us/item/3256809531180266.html",
@@ -127,7 +110,8 @@
     "aliexpress.us/item/3256801851331680.html",
     "aliexpress.us/item/3256806565109178.html",
     "aliexpress.us/item/3256812587931855.html",
-    "aliexpress.us/item/3256813036258588.html"
+    "aliexpress.us/item/3256813036258588.html",
+    "aliexpress.us/item/3256809101146327.html"
   ],
   "_src": "GitHub",
   "snapshots": {
