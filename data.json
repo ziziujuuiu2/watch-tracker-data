@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-20T05:58:07.088Z",
+  "exported_at": "2026-10-20T05:58:09.651Z",
   "count": 13,
   "listings": [
     {
@@ -29,29 +29,6 @@
         "up": true
       },
       "watch_brand": "Fitbit/Whoop等"
-    },
-    {
-      "url": "https://www.aliexpress.us/item/3256813036258588.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256813036258588.html",
-      "platform": "AliExpress",
-      "name": "For Garmin Watch Strap 22mm 26mm Fenix 8 7 7X 6 6X 5 Fenix 9 Pro MIP Forerunner 245 5",
-      "category": "其他配件",
-      "price": "$1",
-      "sold": "32 sold",
-      "sold_num": 32,
-      "rating": "",
-      "listed_at": "",
-      "snapshot_at": "2026-10-20T05:57:37.997Z",
-      "auto": true,
-      "is_control": false,
-      "pick_reason": "AI undefined分",
-      "trend": {
-        "label": "持平",
-        "up": false
-      },
-      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S7f20c2a6565b4aa1aae5e3ed7325854aO.jpg",
-      "watch_brand": "Garmin 佳明"
     },
     {
       "url": "https://www.aliexpress.us/item/3256809101146327.html",
@@ -149,7 +126,8 @@
     "aliexpress.us/item/3256809840133816.html",
     "aliexpress.us/item/3256801851331680.html",
     "aliexpress.us/item/3256806565109178.html",
-    "aliexpress.us/item/3256812587931855.html"
+    "aliexpress.us/item/3256812587931855.html",
+    "aliexpress.us/item/3256813036258588.html"
   ],
   "_src": "GitHub",
   "snapshots": {
