@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-20T01:09:01.302Z",
+  "exported_at": "2026-10-20T01:27:47.204Z",
   "count": 13,
   "listings": [
     {
@@ -12,8 +12,8 @@
       "image": "https://ae-pic-a1.aliexpress-media.com/kf/S98a3d5c0df9e4d23a586b317fe449815Y.jpg",
       "category": "尼龙编织",
       "price": "USD 1.09",
-      "sold": "售出122",
-      "sold_num": 122,
+      "sold": "(123 Orders)",
+      "sold_num": 123,
       "rating": "4.8",
       "reviews": "4",
       "reviews_num": 4,
@@ -22,12 +22,11 @@
       "colors": [
         "Google Fitbit Air"
       ],
-      "snapshot_at": "2026-10-19T01:38:20.229Z",
+      "snapshot_at": "2026-10-20T01:27:47.204Z",
       "source_issue": "2026-10-19",
       "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
+        "label": "销量 ↑ +1 (+1%)",
+        "up": true
       }
     },
     {
