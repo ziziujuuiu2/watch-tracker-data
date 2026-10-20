@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-19T10:27:30.240Z",
+  "exported_at": "2026-10-20T01:07:08.263Z",
   "count": 13,
   "listings": [
     {
@@ -93,5 +93,15 @@
     "aliexpress.us/item/3256801851331680.html",
     "aliexpress.us/item/3256806565109178.html"
   ],
-  "_src": "GitHub"
+  "_src": "GitHub",
+  "snapshots": {
+    "aliexpress.us/item/3256813008552353.html": [
+      {
+        "fetched_at": "2026-10-20T01:07:06.304Z",
+        "src": "detail",
+        "status": "failed",
+        "fail_reason": "Frame with ID 0 was removed."
+      }
+    ]
+  }
 }
