@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-20T08:19:15.356Z",
+  "exported_at": "2026-10-20T08:19:21.561Z",
   "count": 13,
   "listings": [
     {
@@ -27,28 +27,6 @@
       "trend": {
         "label": "销量 ↑ +1 (+1%)",
         "up": true
-      },
-      "watch_brand": "Fitbit/Whoop等"
-    },
-    {
-      "url": "https://www.aliexpress.us/item/3256806563591056.html",
-      "match_host": "aliexpress.us",
-      "match_key": "aliexpress.us/item/3256806563591056.html",
-      "page_id": "3256806563591056",
-      "platform": "AliExpress",
-      "name": "1Pc Anti Slip Bottle Cover New Protective 71-77mm Diameter Bottom Sleeve Universal Si",
-      "category": "其他配件",
-      "price": "$1",
-      "sold": "",
-      "sold_num": null,
-      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S807b050826d14000a8e7789bd0535cad0.jpg",
-      "snapshot_at": "2026-10-20T08:19:15.356Z",
-      "source_issue": "2026-10-20",
-      "auto": false,
-      "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
       },
       "watch_brand": "Fitbit/Whoop等"
     }
@@ -118,7 +96,8 @@
     "aliexpress.us/item/3256813036258588.html",
     "aliexpress.us/item/3256809101146327.html",
     "aliexpress.us/item/3256809531180266.html",
-    "aliexpress.com/item/325680949853267.html"
+    "aliexpress.com/item/325680949853267.html",
+    "aliexpress.us/item/3256806563591056.html"
   ],
   "_src": "GitHub",
   "snapshots": {
