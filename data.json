@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-20T01:07:08.263Z",
+  "exported_at": "2026-10-20T01:09:01.302Z",
   "count": 13,
   "listings": [
     {
@@ -29,6 +29,74 @@
         "up": false,
         "first": true
       }
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256812587931855.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256812587931855.html",
+      "platform": "AliExpress",
+      "name": "Strap For Whoop 5.0 MG Silicon Wristband Strap Newest Color Nylon Woven Elastic ",
+      "category": "自动选品",
+      "price": "$28.59",
+      "sold": "53 sold",
+      "sold_num": 53,
+      "rating": "",
+      "listed_at": "",
+      "snapshot_at": "2026-10-20T01:08:23.155Z",
+      "auto": true,
+      "is_control": false,
+      "pick_reason": "AI undefined分"
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256813036258588.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256813036258588.html",
+      "platform": "AliExpress",
+      "name": "Watch Strap For Garmin Watch Strap 22mm 26mm Fenix 8 7 7X 6 6X 5 Fenix 9 Pro MIP",
+      "category": "自动选品",
+      "price": "$6.15",
+      "sold": "32 sold",
+      "sold_num": 32,
+      "rating": "",
+      "listed_at": "",
+      "snapshot_at": "2026-10-20T01:08:42.547Z",
+      "auto": true,
+      "is_control": false,
+      "pick_reason": "AI undefined分"
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256809101146327.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256809101146327.html",
+      "platform": "AliExpress",
+      "name": "Case+Silicone Strap for Redmi watch 3 active/Lite band smartwatch Accessories Wa",
+      "category": "自动选品",
+      "price": "$1.09",
+      "sold": "137 sold",
+      "sold_num": 137,
+      "rating": "",
+      "listed_at": "",
+      "snapshot_at": "2026-10-20T01:08:52.636Z",
+      "auto": true,
+      "is_control": false,
+      "pick_reason": "AI undefined分"
+    },
+    {
+      "url": "https://www.aliexpress.us/item/3256809531180266.html",
+      "match_host": "aliexpress.us",
+      "match_key": "aliexpress.us/item/3256809531180266.html",
+      "platform": "AliExpress",
+      "name": "Watch Strap Classic Rubber Watch Strap 18/19/20/21/22/23/24mm Quick Release Wate",
+      "category": "自动选品",
+      "price": "$15.39",
+      "sold": "37 sold",
+      "sold_num": 37,
+      "rating": "",
+      "listed_at": "",
+      "snapshot_at": "2026-10-20T01:08:57.867Z",
+      "auto": true,
+      "is_control": false,
+      "pick_reason": "AI undefined分"
     }
   ],
   "deleted": [
@@ -103,5 +171,44 @@
         "fail_reason": "Frame with ID 0 was removed."
       }
     ]
-  }
+  },
+  "pick_records": [
+    {
+      "match_key": "aliexpress.us/item/3256812587931855.html",
+      "picked_at": "2026-10-20T01:08:23.155Z",
+      "picked_by": "auto",
+      "inputs": {
+        "sold_num": 53,
+        "listed_at": ""
+      }
+    },
+    {
+      "match_key": "aliexpress.us/item/3256813036258588.html",
+      "picked_at": "2026-10-20T01:08:42.547Z",
+      "picked_by": "auto",
+      "inputs": {
+        "sold_num": 32,
+        "listed_at": ""
+      }
+    },
+    {
+      "match_key": "aliexpress.us/item/3256809101146327.html",
+      "picked_at": "2026-10-20T01:08:52.636Z",
+      "picked_by": "auto",
+      "inputs": {
+        "sold_num": 137,
+        "listed_at": ""
+      }
+    },
+    {
+      "match_key": "aliexpress.us/item/3256809531180266.html",
+      "picked_at": "2026-10-20T01:08:57.867Z",
+      "picked_by": "auto",
+      "inputs": {
+        "sold_num": 37,
+        "listed_at": ""
+      }
+    }
+  ],
+  "controls": []
 }
