@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-20T05:58:38.039Z",
+  "exported_at": "2026-10-20T06:04:22.395Z",
   "count": 13,
   "listings": [
     {
@@ -29,6 +29,31 @@
         "up": true
       },
       "watch_brand": "Fitbit/Whoop等"
+    },
+    {
+      "url": "https://www.aliexpress.com/item/325680949853267.html",
+      "match_host": "aliexpress.com",
+      "match_key": "aliexpress.com/item/325680949853267.html",
+      "platform": "AliExpress",
+      "name": "Sport Bracelet For Apple Watch Ultra 2 49mm Band En Mer Bracelet For Apple Watch Band",
+      "category": "硅胶/运动表带",
+      "watch_brand": "Apple Watch",
+      "price": "",
+      "sold": "",
+      "sold_num": null,
+      "rating": "",
+      "seller": "",
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sbdf6127d160d4e258d0b41b6b74a141bU.jpg",
+      "competing_sellers": 0,
+      "listed_at": "",
+      "snapshot_at": "2026-10-20T06:04:22.395Z",
+      "auto": false,
+      "pick_reason": "发现页人工精选",
+      "trend": {
+        "label": "新选入",
+        "up": false,
+        "first": true
+      }
     }
   ],
   "deleted": [
