@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-20T05:57:37.997Z",
+  "exported_at": "2026-10-20T05:57:57.605Z",
   "count": 13,
   "listings": [
     {
@@ -35,17 +35,23 @@
       "match_host": "aliexpress.us",
       "match_key": "aliexpress.us/item/3256812587931855.html",
       "platform": "AliExpress",
-      "name": "Strap For Whoop 5.0 MG Silicon Wristband Strap Newest Color Nylon Woven Elastic ",
-      "category": "自动选品",
-      "price": "$28.59",
+      "name": "For Whoop 5.0 MG Silicon Wristband Strap Newest Color Nylon Woven Elastic Whoop MG Sp",
+      "category": "尼龙/编织表带",
+      "price": "$1",
       "sold": "53 sold",
       "sold_num": 53,
       "rating": "",
       "listed_at": "",
-      "snapshot_at": "2026-10-20T01:08:23.155Z",
+      "snapshot_at": "2026-10-20T05:57:57.605Z",
       "auto": true,
       "is_control": false,
-      "pick_reason": "AI undefined分"
+      "pick_reason": "AI undefined分",
+      "trend": {
+        "label": "持平",
+        "up": false
+      },
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sd0ec5927e1ab4017aa119fff242bd593Q.jpg",
+      "watch_brand": "Fitbit/Whoop等"
     },
     {
       "url": "https://www.aliexpress.us/item/3256813036258588.html",
