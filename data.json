@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-20T05:57:23.166Z",
+  "exported_at": "2026-10-20T05:57:37.465Z",
   "count": 13,
   "listings": [
     {
@@ -69,17 +69,23 @@
       "match_host": "aliexpress.us",
       "match_key": "aliexpress.us/item/3256809101146327.html",
       "platform": "AliExpress",
-      "name": "Case+Silicone Strap for Redmi watch 3 active/Lite band smartwatch Accessories Wa",
-      "category": "自动选品",
-      "price": "$1.09",
+      "name": "Case+Silicone Strap for Redmi watch 3 active/Lite band smartwatch Accessories Waterpr",
+      "category": "壳带一体/保护壳",
+      "price": "$1",
       "sold": "137 sold",
       "sold_num": 137,
       "rating": "",
       "listed_at": "",
-      "snapshot_at": "2026-10-20T01:08:52.636Z",
+      "snapshot_at": "2026-10-20T05:57:37.465Z",
       "auto": true,
       "is_control": false,
-      "pick_reason": "AI undefined分"
+      "pick_reason": "AI undefined分",
+      "trend": {
+        "label": "持平",
+        "up": false
+      },
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sb319e8a3b4344d1ba6cca7b35cce76aeH.jpg",
+      "watch_brand": "小米/红米"
     },
     {
       "url": "https://www.aliexpress.us/item/3256809531180266.html",
