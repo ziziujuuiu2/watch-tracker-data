@@ -1,5 +1,16 @@
 {
-  "updated_at": "2026-10-19T10:15:04+08:00",
-  "issue": "2026-10-19",
-  "topics": []
+  "updated_at": "2026-10-21T10:09:22+08:00",
+  "issue": "2026-10-21",
+  "topics": [
+    {
+      "keyword": "samsung galaxy watch7",
+      "label": "其他",
+      "heat": 60,
+      "reason": "1款本期新收录",
+      "platforms": [
+        "eBay"
+      ],
+      "n": 1
+    }
+  ]
 }
