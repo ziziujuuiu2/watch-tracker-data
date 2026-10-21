@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-21T01:22:31.197Z",
+  "exported_at": "2026-10-21T01:56:30.818Z",
   "count": 13,
   "listings": [
     {
@@ -8,12 +8,12 @@
       "match_key": "aliexpress.us/item/3256813008552353.html",
       "page_id": "3256813008552353",
       "platform": "AliExpress",
-      "name": "Nylon Braided Strap for Google Fitbit Air Bands Fitness Replacement Band Magnetic Wri",
+      "name": "Nylon Braided Strap for Google Fitbit Air Bands Fitness Replacement Band Magnetic Wristban",
       "image": "https://ae-pic-a1.aliexpress-media.com/kf/S98a3d5c0df9e4d23a586b317fe449815Y.jpg",
       "category": "尼龙/编织表带",
       "price": "$1.09",
-      "sold": "123 sold",
-      "sold_num": 123,
+      "sold": "0 sold",
+      "sold_num": 0,
       "rating": "4.8",
       "reviews": "4",
       "reviews_num": 4,
@@ -22,13 +22,14 @@
       "colors": [
         "Google Fitbit Air"
       ],
-      "snapshot_at": "2026-10-21T01:22:31.197Z",
+      "snapshot_at": "2026-10-21T01:56:30.818Z",
       "source_issue": "2026-10-19",
       "trend": {
-        "label": "销量 ↑ +1 (+1%)",
-        "up": true
+        "label": "销量 ↓ -123 (-100%)",
+        "up": false
       },
-      "watch_brand": "通用/其他机型"
+      "watch_brand": "通用/其他机型",
+      "first_seen_at": "2026-10-17"
     }
   ],
   "deleted": [
