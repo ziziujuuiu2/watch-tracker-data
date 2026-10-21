@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-21T02:27:53.013Z",
+  "exported_at": "2026-10-21T03:22:47.483Z",
   "count": 13,
   "listings": [
     {
@@ -15,7 +15,7 @@
       "sold_num": null,
       "image": "https://ae-pic-a1.aliexpress-media.com/kf/S98a3d5c0df9e4d23a586b317fe449815Y.jpg",
       "first_seen_at": "2026-10-21",
-      "listed_at": "2026-10-21",
+      "listed_at": "",
       "snapshot_at": "2026-10-21T02:27:53.013Z",
       "source_issue": "2026-10-21",
       "auto": false,
@@ -23,7 +23,8 @@
         "label": "首记",
         "up": false,
         "first": true
-      }
+      },
+      "listed_src": "first_seen"
     }
   ],
   "deleted": [
