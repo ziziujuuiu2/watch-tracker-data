@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-24T07:58:18.893Z",
+  "exported_at": "2026-10-26T01:04:34.399Z",
   "count": 13,
   "listings": [
     {
@@ -8,22 +8,21 @@
       "match_key": "aliexpress.us/item/3256813008552353.html",
       "page_id": "3256813008552353",
       "platform": "AliExpress",
-      "name": "Nylon Braided Strap for Google Fitbit Air Bands Fitness Replacement Band Magnetic Wristban",
+      "name": "Watch Band Nylon Loop Braided Watch Strap FOR FITBIT AIR Band Bracelet Breathable Wristb",
       "category": "尼龙/编织表带",
-      "price": "US $3.33",
-      "sold": "393 sold",
-      "sold_num": 393,
+      "price": "US $4.05",
+      "sold": "1 sold",
+      "sold_num": 1,
       "image": "https://ae-pic-a1.aliexpress-media.com/kf/S98a3d5c0df9e4d23a586b317fe449815Y.jpg",
       "first_seen_at": "2026-10-21",
       "listed_at": "",
       "listed_src": "first_seen",
-      "snapshot_at": "2026-10-24T07:58:18.893Z",
+      "snapshot_at": "2026-10-26T01:04:34.399Z",
       "source_issue": "2026-10-21",
       "auto": false,
       "trend": {
-        "label": "首记",
-        "up": false,
-        "first": true
+        "label": "销量 ↓ -392 (-100%)",
+        "up": false
       },
       "rating": "5"
     }
