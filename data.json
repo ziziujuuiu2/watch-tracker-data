@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-26T02:33:12.139Z",
+  "exported_at": "2026-10-26T02:33:17.988Z",
   "count": 13,
   "listings": [
     {
@@ -25,6 +25,30 @@
         "up": true
       },
       "rating": "4.7"
+    },
+    {
+      "url": "https://shopee.sg/NEW-T900-Ultra2-Smart-Watch-Waterproof-Series-Ultra-with-Bluetooth-Call-IP68-Waterproof-49mm-answering-call-Smartwatch-i.382784408.47962133418",
+      "match_host": "shopee.sg",
+      "match_key": "shopee.sg/new-t900-ultra2-smart-watch-waterproof-series-ultra-with-bluetooth-call-ip68-waterproof-49mm-answering-call-smartwatch-i.382784408.47962133418",
+      "page_id": "382784408",
+      "platform": "AliExpress",
+      "name": "NEW T900 Ultra2 Smart Watch Waterproof Series Ultra with Bluetooth Call IP68 Waterpro",
+      "category": "其他配件",
+      "price": "",
+      "sold": "",
+      "sold_num": null,
+      "image": "https://down-sg.img.susercontent.com/file/sg-11134201-7rd61-lwbmu03rkivn79",
+      "first_seen_at": "2026-10-26",
+      "listed_at": "",
+      "listed_src": "first_seen",
+      "snapshot_at": "2026-10-26T02:33:17.053Z",
+      "source_issue": "2026-10-26",
+      "auto": false,
+      "trend": {
+        "label": "首记",
+        "up": false,
+        "first": true
+      }
     }
   ],
   "deleted": [
